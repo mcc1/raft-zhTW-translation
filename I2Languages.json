@@ -554,7 +554,7 @@
           "Conectándose...",
           "Łączenie",
           "Conectando",
-          "連線中",
+          "連接中",
           "接続しています",
           "연결 중",
           "Подключение"
@@ -818,7 +818,7 @@
           "No se han encontrado mundos.\nSolo puedes conectarte a mundos creados por tus amigos de Steam.",
           "Nie znaleziono żadnego świata.\nMożesz połączyć się jedynie ze światami, których host jest twoim znajomym na portalu Steam.",
           "Nenhum mundo encontrado.\nVocê só pode se conectar a jogos criados por um amigo do Steam.",
-          "你無法找到任何一個世界。\n你只能連線到Steam好友主理的世界。",
+          "你無法找到任何一個世界。\n你只能連接到Steam好友主理的世界。",
           "世界が見つかりません。\nSteam上の友達がホストする世界のみ接続できます。",
           "세계를 찾을 수 없습니다.\nSteam 친구가 호스트인 세계에만 접속할 수 있습니다.",
           "Миры не найдены.\nМожно подключаться только к мирам под управлением друзей в Steam."
@@ -17153,7 +17153,7 @@
           "Cama básica@Te sirve para dormir por la noche y para revivir amigos incapacitados. Si reapareces en la cama, también aumenta tu salud.",
           "Proste łóżko@Pozwala ci spać w nocy oraz przywracać do zdrowia nieprzytomnych przyjaciół. Ponownie odradzając się w łóżku, odzyskasz więcej zdrowia.",
           "Cama simples@Para dormir durante a noite e reviver amigos incapacitados. Reanimar em uma cama também lhe dá mais vida.",
-          "簡易床@你晚上可以在上面睡覺，也可用來喚醒失去行動能力的好友。在床上覆活同樣也能讓你獲得更多的生命值。",
+          "簡易床@你晚上可以在上面睡覺，也可用來喚醒失去行動能力的好友。在床上復活同樣也能讓你獲得更多的生命值。",
           "簡素なベッド@夜に睡眠をとったり疲れた友人を回復させたりできます。ベッドから再開すると、體力が多くなります。",
           "단순 침대@밤에 잘 수 있고 행동 불능 상태인 친구를 부활시킬 수도 있습니다. 침대에서 부활하면 체력이 더 많이 회복합니다.",
           "Обычная кровать@Позволяет спать ночью и лечить больных друзей. Перезапуск в кровати также добавляет здоровья."
@@ -17186,7 +17186,7 @@
           "Hamaca@Te sirve para dormir por la noche y para revivir amigos incapacitados. Si reapareces en la hamaca, tu salud aumenta aún más que con la cama básica.",
           "Hamak@Pozwala ci spać w nocy oraz przywracać do zdrowia nieprzytomnych przyjaciół. Ponownie odradzając się w hamaku, odzyskasz jeszcze więcej zdrowia niż w łóżku.",
           "Rede@Para dormir durante a noite e reviver amigos incapacitados. Reanimar em uma rede lhe dá ainda mais vida do que uma cama simples.",
-          "吊牀@你晚上可以在上面睡覺，也可用來喚醒失去行動能力的好友。吊牀讓你獲得比在床上覆活更多的生命值。",
+          "吊床@你晚上可以在上面睡覺，也可用來喚醒失去行動能力的好友。吊床讓你獲得比在床上復活更多的生命值。",
           "ハンモック　夜に睡眠をとったり疲れた友人を回復させたりできます。ハンモックから再開すると、簡素なベッドより體力が多くなります。",
           "해먹@밤에 잘 수 있고 행동 불능 상태인 친구를 부활시킬 수도 있습니다. 해먹에서 부활하면 단순 침대보다 더 많은 체력이 회복됩니다.",
           "Гамак@Позволяет спать ночью и лечить больных друзей. Перезапуск в гамаке добавляет даже больше здоровья, чем в обычной кровати."
@@ -17945,7 +17945,7 @@
           "Cargador de batería@¡Se puede conectar con las tuberías de combustible!",
           "Ładowarka do baterii@Można ją połączyć z przewodem paliwowym!",
           "Carregador de bateria@Pode-se conectar com tubos de combustível!",
-          "電池充電器@可以連線到燃料管上！",
+          "電池充電器@可以連接到燃料管上！",
           "充電器@燃料パイプにつなげられます！",
           "배터리 충전기@연료 파이프에 연결할 수 있습니다!",
           "Зарядное устройство@Можно подключить к топливным трубам!"
@@ -17978,7 +17978,7 @@
           "Tirolina@Es muy divertido subirse en ella.",
           "Linka@Fajnie się po niej zjeżdża.",
           "Tirolesa@É divertido de usar.",
-          "滑索@坐滑索很好玩。",
+          "滑索@溜滑索很好玩。",
           "ジップライン@乗って楽しもう。",
           "집라인@재밌게 탈 수 있습니다.",
           "Зиплайн@Кататься по нему – одно удовольствие."
@@ -20981,7 +20981,7 @@
           "Purificador eléctrico@¡Se puede conectar a tuberías de agua!",
           "Elektryczny filtr@Można go połączyć z wodociągami!",
           "Filtro elétrico@Pode-se conectar com tubos hídricos!",
-          "電子淨化器@可以連線到水管上！",
+          "電子淨化器@可以連接到水管上！",
           "電気洗浄機@水パイプにつなげられます！",
           "전기 정수기@물 파이프에 연결할 수 있습니다!",
           "Электрический опреснитель@Можно подключить к водопроводу!"
@@ -21245,7 +21245,7 @@
           "Tanque de agua@¡Se puede conectar a tuberías de agua!",
           "Zbiornik na wodę@Można go połączyć z wodociągami!",
           "Tanque de água@Pode-se conectar com tubos hídricos!",
-          "水箱@可以連線到水管上！",
+          "水箱@可以連接到水管上！",
           "水タンク@水パイプにつなげられます！",
           "물 탱크@물 파이프에 연결할 수 있습니다!",
           "Бак для воды@Можно подключить к водопроводу!"
@@ -23588,7 +23588,7 @@
           "Aerogenerador@Carga las baterías con energía eólica.",
           "Turbina wiatrowa@Ładuje baterie dzięki energii wiatru.",
           "Turbina eólica@Carrega baterias com a força do vento.",
-          "風力發電機@利用風能給電池充電。",
+          "風力發電機@利用風力來充電電池。",
           "風力発電機@風力を使ってバッテリーの充電ができる。",
           "풍력 발전기@풍력으로 배터리를 충전합니다.",
           "Воздушная турбина@Заряжает батарейки энергией ветра."
@@ -30419,7 +30419,7 @@
           "La inundación de Yakarta obligó a los locales a crear ciudades flotantes a partir de balsas interconectadas mientras se dirigían a tierra firme.\n\n«Solo hacemos lo que hay que hacer» dijo Patri Reyes, una de las primeras habitantes de estas ciudades-balsa, cuando nuestros reporteros le preguntaron por sus condiciones de vida. Flotando a través de las corrientes marinas, parecen crecer a un ritmo constante, para preocupación de las autoridades costeras.",
           "Zatopienie Dżakarty zmusiło uciekających mieszkańców do stworzenia dryfujących tratw, na których wędrują w stronę lądu.\n\n„Musimy sobie jakoś radzić」 – powiedział Putri Reyes, jeden z pierwszych mieszkańców tych miast-tratw, zapytany przez naszego reportera o warunki życia. Te niesione głównie prądami morskimi skupiska ludzi stale się rozrastają, co budzi znaczny niepokój wśród władz chroniących nadbrzeża.",
           "O alagamento de Jakarta fez com que os habitantes locais criassem jangadas interconectadas para alcançar uma nova terra.\n\n\"A gente se vira\", disse Putri Reyes, um dos primeiros entusiastas dessas cidades-jangada, quando questionado por um dos nossos repórteres sobre as condições de vida. À deriva nas correntes marítimas e em crescimento constante, elas parecem gerar uma grande preocupação nas autoridades costeiras.",
-          "洪水淹沒了雅加達，逃脫生天的當地人只能把漂浮的船隻連線在一起。\n\n在有記者問到他們的生活狀況時，浮筏小鎮最早的居民之一普特里·雷耶斯說：「我們只是湊合度日」。漂流很大程度上要依靠海流，而海流的數量一直在穩定增長，這引起了海岸監管部門不小的擔憂。",
+          "洪水淹沒了雅加達，逃脫生天的當地人只能把漂浮的船隻連接在一起。\n\n在有記者問到他們的生活狀況時，浮筏小鎮最早的居民之一普特里·雷耶斯說：「我們只是湊合度日」。漂流很大程度上要依靠海流，而海流的數量一直在穩定增長，這引起了海岸監管部門不小的擔憂。",
           "ジャカルタの浸水は、脫出する地元民たちが、陸地へと向かうための互いに繋がったいかだを作るという結果に繋がった。\n\n生活環境についてあるリポーターに質問された際に、いかだの町を早くに採用した一人であるプトリ・レイエスはこう答えた…「なんとかやっていくさ」海流に乗って大規模な漂流をする中で、彼らは安定的に成長をしているようには見えるが、沿岸部の機関では懸念も生じ始めている。",
           "자카르타에 홍수가 일어났고, 사람들은 육지로 가기 위해 서로 연결된 뗏목을 만들어 탈출했습니다.\n\n리포터가 생활 환경에 대해 묻자 뗏목 마을의 초기 정착민 중 하나인 푸트리 레예스는 \"그저 살아갈 뿐이다\"라고 말했습니다. 뗏목 마을은 해류를 따라 흘러 다니며 서서히 커지고 있으며, 해안 관리 당국은 이에 우려를 표하고 있습니다.",
           "Затопление Джакарты вынудило местных жителей построить плавучие города из дрейфующих кораблей и отправиться на поиски суши.\n\n«Живем как можем…» – заявила одна из первых жительниц подобных плавучих городов, отвечая на вопрос наших корреспондентов об условиях жизни. Эти поселения передвигаются по течению и быстро растут, что вызывает опасения со стороны береговых властей."
@@ -35798,7 +35798,7 @@
           "La inundación de Yakarta obligó a los locales a crear ciudades flotantes a partir de balsas interconectadas mientras se dirigían a tierra firme.",
           "Zatopienie Dżakarty zmusiło uciekających mieszkańców do stworzenia dryfujących tratw, na których wędrują w stronę lądu.",
           "O alagamento de Jakarta fez com que os habitantes locais criassem jangadas interconectadas para alcançar uma nova terra.",
-          "洪水淹沒了雅加達，逃脫生天的當地人只能把漂浮的船隻連線在一起。",
+          "洪水淹沒了雅加達，逃脫生天的當地人只能把漂浮的船隻連接在一起。",
           "ジャカルタの浸水は、脫出する地元民たちが、陸地へと向かうための互いに繋がったいかだを作るという結果に繋がった。",
           "자카르타에 홍수가 일어났고, 사람들은 육지로 가기 위해 서로 연결된 뗏목을 만들어 탈출했습니다.",
           "Затопление Джакарты вынудило местных жителей построить плавучие города из дрейфующих кораблей и отправиться на поиски суши."
@@ -54872,7 +54872,7 @@
           "Puente levadizo corto@Conecta dos secciones de tu balsa.",
           "Krótki most zwodzony@Łączy dwie części tratwy.",
           "Ponte levadiça pequena@Conecta duas partes da sua jangada.",
-          "短吊橋@將木筏的兩個部分連線起來。",
+          "短吊橋@將木筏的兩個部分連接起來。",
           "短い跳ね橋@いかだの2つのパーツを接続する。",
           "짧은 도개교@뗏목의 두 부분을 연결합니다.",
           "Короткий подъемный мост@Соединяет две части плота."
@@ -54905,7 +54905,7 @@
           "Puente levadizo largo@Conecta dos secciones de tu balsa.",
           "Długi most zwodzony@Łączy dwie części tratwy.",
           "Ponte levadiça grande@Conecta duas partes da sua jangada.",
-          "長吊橋@將木筏的兩個部分連線起來。",
+          "長吊橋@將木筏的兩個部分連接起來。",
           "長い跳ね橋@いかだの2つのパーツを接続する。",
           "긴 도개교@뗏목의 두 부분을 연결합니다.",
           "Длинный подъемный мост@Соединяет две части плота."
@@ -57644,7 +57644,7 @@
           "Sin conexión a Steam.\nActualiza o reinicia Raft e inténtalo de nuevo.",
           "Brak połączenia ze Steam.\nOdśwież lub uruchom ponownie Raft i spróbuj jeszcze raz.",
           "Sem conexão com o Steam.\nAtualize ou reinicie Raft e tente novamente.",
-          "無法連線至Steam。\n請重新整理或重啟《Raft》並重試。",
+          "無法連接至Steam。\n請重新整理或重啟《Raft》並重試。",
           "steamとの接続ができませんでした。\n更新するかRaftを再起動してから再度お試しください。",
           "Steam에 연결되지 않았습니다.\n새로고침 하거나 Raft를 다시 시작해 보세요.",
           "Нет подключения к Steam.\nОбновите или перезапустите Raft и попробуйте снова."
@@ -57677,7 +57677,7 @@
           "Te has desconectado de Steam.\nReinicia Raft e inténtalo de nuevo.",
           "Odłączono od Steam.\nUruchom ponownie Raft i spróbuj jeszcze raz.",
           "Desconectado do Steam.\nAtualize ou reinicie Raft e tente novamente.",
-          "與Steam斷開連線。\n請重啟《Raft》並重試。",
+          "與Steam斷開連接。\n請重啟《Raft》並重試。",
           "steamから切斷されました。\nRaftを再起動してから再度お試しください",
           "Steam과의 연결이 해제되었습니다.\nRaft를 다시 시작해 보세요.",
           "Нет подключения к Steam.\nПерезапустите Raft и попробуйте снова."
@@ -57776,7 +57776,7 @@
           "Intentando conectarse al anfitrión...",
           "Próba połączenia z hostem…",
           "Tentando conectar com o anfitrião…",
-          "正在連線主機……",
+          "正在連接主機……",
           "ホストへ接続しています…",
           "호스트 연결 시도 중...",
           "Попытка соединения с хостом…"
