@@ -356,7 +356,7 @@
           "Nombre del mundo",
           "Nazwa świata",
           "Nome do jogo",
-          "世界名",
+          "世界名稱",
           "世界の名前",
           "세계 이름",
           "Название мира"
@@ -587,7 +587,7 @@
           "No te pudiste unir al mundo.",
           "Nie udało się dołączyć do świata",
           "Falha ao entrar no jogo",
-          "未能加入世界",
+          "無法加入世界",
           "世界の參加に失敗しました",
           "세계 참여에 실패했습니다.",
           "Не удалось присоединиться к миру"
@@ -7781,7 +7781,7 @@
           "Recoger {[ItemCount]} objetos",
           "Zbierz przedmioty: {[ItemCount]}",
           "Pegar {[ItemCount]} itens",
-          "收集到{[ItemCount]}物品",
+          "收集到 {[ItemCount]}個物品",
           "{[ItemCount]}アイテムを集める",
           "{[ItemCount]}개 아이템 수집",
           "Собрать предметы: {[ItemCount]}"
@@ -15041,7 +15041,7 @@
           "Plano: Receptor@Se puede aprender en la mesa de investigación.",
           "Projekt: Odbiornik@",
           "Diagrama: Receptor@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：接收器@可以進行研究。",
+          "藍圖：接收器@可以在研究桌中學習。",
           "ブループリント：レシーバー@",
           "청사진: 수신기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Приемник@Можно изучить на рабочем столе."
@@ -15074,7 +15074,7 @@
           "Plano: Batería@Se puede aprender en la mesa de investigación.",
           "Projekt: Bateria@",
           "Diagrama: Bateria@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：電池@可以進行研究。",
+          "藍圖：電池@可以在研究桌中學習。",
           "ブループリント：バッテリー@",
           "청사진: 배터리@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Батарейка@Можно изучить на рабочем столе."
@@ -15107,7 +15107,7 @@
           "Plano: Antena@Se puede aprender en la mesa de investigación.",
           "Projekt: Antena@",
           "Diagrama: Antena@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：天線@可以進行研究。",
+          "藍圖：天線@可以在研究桌中學習。",
           "ブループリント：アンテナ@",
           "청사진: 안테나@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Антенна@атарейка@Можно изучить на рабочем столе."
@@ -15140,7 +15140,7 @@
           "Plano: Linterna frontal@Se puede aprender en la mesa de investigación.",
           "Projekt: Latarka na głowę@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Lanterna@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：頭燈@可以進行研究。",
+          "藍圖：頭燈@可以在研究桌中學習。",
           "ブループリント：ヘッドライト@",
           "청사진: 전조등@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Налобный фонарь@Можно изучить на рабочем столе"
@@ -15173,7 +15173,7 @@
           "Plano: Motor@Se puede aprender en la mesa de investigación.",
           "Projekt: Silnik@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Motor@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：引擎@可以進行研究。",
+          "藍圖：引擎@可以在研究桌中學習。",
           "ブループリント：エンジン@",
           "청사진: 엔진@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Мотор@Можно изучить на рабочем столе"
@@ -15206,7 +15206,7 @@
           "Plano: Volante@Se puede aprender en la mesa de investigación.",
           "Projekt: Ster@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Volante@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：方向盤@可以進行研究。",
+          "藍圖：方向盤@可以在研究桌中學習。",
           "ブループリント：舵輪@",
           "청사진: 핸들@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Руль@Можно изучить на рабочем столе"
@@ -15239,7 +15239,7 @@
           "Plano: Machete@Se puede aprender en la mesa de investigación.",
           "Projekt: Maczeta@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Machete@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：砍刀@可以進行研究。",
+          "藍圖：砍刀@可以在研究桌中學習。",
           "ブループリント：マチェーテ@",
           "청사진: 마체테칼@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Мачете@Можно изучить на рабочем столе"
@@ -15272,7 +15272,7 @@
           "Plano: Depósito de combustible@Se puede aprender en la mesa de investigación.",
           "Projekt: Zbiornik paliwa@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tanque de combustível@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：燃料箱@可以進行研究。",
+          "藍圖：燃料箱@可以在研究桌中學習。",
           "ブループリント：燃料タンク@",
           "청사진: 연료 탱크@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Бензобак@Можно изучить на рабочем столе"
@@ -15305,7 +15305,7 @@
           "Plano: Refinador de biocombustible@Se puede aprender en la mesa de investigación.",
           "Projekt: Rafiner biopaliwa@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Refinador de combustível@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：生質燃料精煉器@可以進行研究。",
+          "藍圖：生質燃料精煉器@可以在研究桌中學習。",
           "ブループリント：バイオ燃料の精製裝置@",
           "청사진: 생물 연료 정제기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Очиститель биотоплива@Можно изучить на рабочем столе"
@@ -18638,7 +18638,7 @@
           "Volante@Te permite rotar la balsa. Es muy útil combinado con un motor.",
           "Ster@Pozwala na obracanie tratwy. Szczególnie przydatny w połączeniu z silnikiem.",
           "Volante@Permite que você gire o barco. Melhor desempenho ao combinar com um motor.",
-          "方向盤@可以給木筏轉向，與引擎搭配時尤其有用。",
+          "方向盤@可以讓木筏轉向，與引擎搭配時更有用。",
           "舵輪@いかだを方向転換させられるようになります。エンジンと組み合わせると、非常に便利です。",
           "핸들@뗏목을 회전시킬 수 있게 해줍니다. 엔진과 함께 쓰면 더욱 유용합니다.",
           "Штурвал@Позволяет разворачивать плот. Особенно полезен в сочетании с мотором."
@@ -18671,7 +18671,7 @@
           "Refinador de biocombustible@Mezcla comida cruda y miel para crear biocombustible.",
           "Rafiner biopaliwa@Pozwala wymieszać surowe jedzenie i miód w celu uzyskania biopaliwa.",
           "Refinador de biocombustível@Mistura mel e alimentos crus para gerar biocombustível.",
-          "生質燃料精煉器@通過混合生食與蜂蜜，造出生質燃料。",
+          "生質燃料精煉器@透過混合生食與蜂蜜，造出生質燃料。",
           "バイオ燃料の精製裝置@未加工の食べ物とハチミツを混ぜ、バイオ燃料を作成できます。",
           "생물 연료 정제기@날음식과 꿀을 섞어 생물 연료를 만듭니다.",
           "Очиститель биотоплива@Создает биотопливо, смешивая сырые продукты и мед."
@@ -20222,7 +20222,7 @@
           "Plano: Fuegos artificiales@Se puede aprender en la mesa de investigación.",
           "Projekt: Fajerwerk@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Fogos de artifício@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：煙火@可以進行研究。",
+          "藍圖：煙火@可以在研究桌中學習。",
           "ブループリント：花火@",
           "청사진: 폭죽@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Фейерверк@Можно изучить на рабочем столе."
@@ -20420,7 +20420,7 @@
           "Plano: Depósito grande@Se puede aprender en la mesa de investigación.",
           "Projekt: Duża skrzynia@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Armazém grande@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：大儲藏間@可以進行研究。",
+          "藍圖：大儲藏間@可以在研究桌中學習。",
           "ブループリント：大きなストーレッジ@",
           "청사진: 대형 창고@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Большое хранилище@Можно изучить на рабочем столе."
@@ -20453,7 +20453,7 @@
           "Plano: Detector de metales@Se puede aprender en la mesa de investigación.",
           "Projekt: Wykrywacz metalu@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Detector de metais@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：金屬探測器@可以進行研究。",
+          "藍圖：金屬探測器@可以在研究桌中學習。",
           "ブループリント：金屬探知機@",
           "청사진: 금속 탐지기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Металлоискатель@Можно изучить на рабочем столе."
@@ -20717,7 +20717,7 @@
           "Plano: Cargador de batería@Se puede aprender en la mesa de investigación.",
           "Projekt: Ładowarka do baterii@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Carregador de bateria@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：電池充電器@可以進行研究。",
+          "藍圖：電池充電器@可以在研究桌中學習。",
           "ブループリント：充電器@",
           "청사진: 배터리 충전기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Зарядное устройство@Можно изучить на рабочем столе.."
@@ -20750,7 +20750,7 @@
           "Plano: Herramienta de tirolina@Se puede aprender en la mesa de investigación.",
           "Projekt: Przyrząd do jazdy na lince@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Ferramenta de tirolesa@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：滑索工具@可以進行研究。",
+          "藍圖：滑索工具@可以在研究桌中學習。",
           "ブループリント：ジップライン用具@",
           "청사진: 집라인 도구@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Блок для зиплайна@Можно изучить на рабочем столе."
@@ -21014,7 +21014,7 @@
           "Plano: Tirolina@Se puede aprender en la mesa de investigación.",
           "Projekt: Linka@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tirolesa@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：滑索@可以進行研究。",
+          "藍圖：滑索@可以在研究桌中學習。",
           "ブループリント：ジップライン@",
           "청사진: 집라인@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Зиплайн@Можно изучить на рабочем столе."
@@ -21047,7 +21047,7 @@
           "Plano: Purificador eléctrico@Se puede aprender en la mesa de investigación.",
           "Projekt: Elektryczny filtr@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Filtro elétrico@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：電子淨化器@可以進行研究。",
+          "藍圖：電子淨化器@可以在研究桌中學習。",
           "ブループリント：電気洗浄機@",
           "청사진: 전기 정수기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Электрический опреснитель@Можно изучить на рабочем столе."
@@ -21179,7 +21179,7 @@
           "Plano: Tubería de agua@Se puede aprender en la mesa de investigación.",
           "Projekt: Wodociąg@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tubo hídrico@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：水管@可以進行研究。",
+          "藍圖：水管@可以在研究桌中學習。",
           "ブループリント：水パイプ@",
           "청사진: 물 파이프@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Водопроводная труба@Можно изучить на рабочем столе."
@@ -21212,7 +21212,7 @@
           "Plano: Tanque de agua@Se puede aprender en la mesa de investigación.",
           "Projekt: Zbiornik na wodę@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tanque de água@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：水箱@可以進行研究。",
+          "藍圖：水箱@可以在研究桌中學習。",
           "ブループリント：水タンク@",
           "청사진: 물 탱크@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Бак для воды@Можно изучить на рабочем столе."
@@ -21674,7 +21674,7 @@
           "Plano: Tubería@Se puede aprender en la mesa de investigación.",
           "Projekt: Przewód paliwowy@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tubo de combustível@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：燃料管@可以進行研究。",
+          "藍圖：燃料管@可以在研究桌中學習。",
           "ブループリント：パイプ@",
           "청사진: 연료 파이프@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Топливная труба@Можно изучить на рабочем столе."
@@ -23357,7 +23357,7 @@
           "Plano: Exprimidor@Se puede aprender en la mesa de investigación.",
           "Projekt: Sokowirówka@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Espremedor de frutas@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：榨汁機@可以進行研究。",
+          "藍圖：榨汁機@可以在研究桌中學習。",
           "ブループリント：ジューサー@研究デスクで習得できます。",
           "청사진: 주스기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Соковыжималка@Можно изучить на рабочем столе."
@@ -23390,7 +23390,7 @@
           "Plano: Recicladora@Se puede aprender en la mesa de investigación.",
           "Projekt: Urządzenie do recyklingu@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Recicladora@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：回收器@可以進行研究。",
+          "藍圖：回收器@可以在研究桌中學習。",
           "ブループリント：リサイクルボックス@研究デスクで習得できます。",
           "청사진: 재활용기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Устройство для переработки@Можно изучить на рабочем столе."
@@ -23423,7 +23423,7 @@
           "Plano: Controles del motor@Se puede aprender en la mesa de investigación.",
           "Projekt: Układ sterowania silnika@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Controles de motor@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：引擎控制裝置@可以進行研究。",
+          "藍圖：引擎控制裝置@可以在研究桌中學習。",
           "ブループリント：エンジンコントロール@研究デスクで習得できます。",
           "청사진: 엔진 제어 장치@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Управление мотором@Можно изучить на рабочем столе."
@@ -23456,7 +23456,7 @@
           "Plano: Aerogenerador@Se puede aprender en la mesa de investigación.",
           "Projekt: Turbina wiatrowa@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Turbina de vento@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：風力發電機@可以進行研究。",
+          "藍圖：風力發電機@可以在研究桌中學習。",
           "ブループリント：風車@研究デスクで習得できます。",
           "청사진: 풍력 발전기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Ветряная турбина@Можно изучить на рабочем столе."
@@ -23687,7 +23687,7 @@
           "Plano: Vaso de cristal@Se puede aprender en la mesa de investigación.",
           "Projekt: Szklanka@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Copo para drinques@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：玻璃杯@可以進行研究。",
+          "藍圖：玻璃杯@可以在研究桌中學習。",
           "ブループリント：グラス@研究デスクで習得できます。",
           "청사진: 유리컵@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Стакан@Можно изучить на рабочем столе."
@@ -29528,7 +29528,7 @@
           "Estas alimañas tienen potencial: está claro que antes eran ratas normales y corrientes, pero ahora se han convertido en criaturas más... rabiosas, pero también más inteligentes.\n\nHe conseguido buenos resultados entrenándolas y disciplinándolas a través del dolor y la comida. Además, al compartir su sangre, sus mutaciones aumentan. Me pregunto si habrá otras especies que reaccionen igual. He recibido una transmisión de un sitio llamado Ciudad Caravana, no queda lejos de aquí.\n\nTienen una población animal activa, ya no necesito a esta tripulación de pacotilla. Me crearé mis propios soldados de verdad. Soldados perfectos y leales.\n~Olof Wilkstrom",
           "Te „czyhoszczury」 mają potencjał. Najwyraźniej kiedyś były zwykłymi szczurami, tylko wyrosły na znacznie bardziej wściekłe bestie. Ale nabrały też sprytu.\n\nPoczyniłem już postępy w ich szkoleniu. Mogę je kontrolować, odpowiednio dozując jedzenie i ból. A mieszanie się ich krwi sprawia, że wzrasta liczba mutacji. Ciekawe, czy inny gatunek zareagowałby tak samo? Odebrałem transmisję z miejsca zwanego Caravan Town, niedaleko stąd.\n\nMają aktywną populację zwierząt. Nie potrzebuję już tej namiastki załogi. Stworzę prawdziwych żołnierzy. Lojalnych.\n~Olof Wilkstrom",
           "Esses \"roedores\" têm potencial. Apesar de já terem sido meros ratos, agora evoluíram para algo muito mais raivoso e inteligente.\n\nJá obtive algum progresso no treinamento deles. Com comida e dor como incentivos, posso discipliná-los. Transfundir seu sangue fez com que as mutações aumentassem. Será que outra espécie reagiria da mesma forma? Recebi uma transmissão de um lugar chamado Cidade Caravana, não muito longe daqui.\n\nEles têm uma fauna ativa. Não preciso mais dessa tripulação improvisada. Vou criar verdadeiros soldados. Soldados leais.\n~Olof Wilkstrom",
-          "這些「潛伏者」很有潛力。它們以前顯然是老鼠，現在變成了更為狂暴的東西——也變得更聰明了。\n\n對它們的訓練已經取得了進展。我用食物和痛苦作為刺激，成功對它們進行了調教。通過分享它們的血液，突變數也增加了。不知道其他物種是否會有同樣的反應？我收到了一個訊號，來自一個叫大篷車鎮的地方，離這裡不遠。\n\n他們那兒有一群活躍的動物。我不再需要這支臨時隊伍了。我將創造真正的士兵。忠誠的士兵。\n~奧諾夫·威克斯特羅姆",
+          "這些「潛伏者」很有潛力。它們以前顯然是老鼠，現在變成了更為狂暴的東西——也變得更聰明了。\n\n對它們的訓練已經取得了進展。我用食物和痛苦作為刺激，成功對它們進行了調教。透過分享它們的血液，突變數也增加了。不知道其他物種是否會有同樣的反應？我收到了一個訊號，來自一個叫大篷車鎮的地方，離這裡不遠。\n\n他們那兒有一群活躍的動物。我不再需要這支臨時隊伍了。我將創造真正的士兵。忠誠的士兵。\n~奧諾夫·威克斯特羅姆",
           "「ラーカー」たちには可能性がある。元はネズミだった生き物が、今や狂暴な何かに成長している。さらに、知性までも向上しているようだ。\n\n奴らの訓練はすでに進行している。飴と鞭を使い分けることで奴らを統率することができる。そして、血を分かち合うことで突然変異を増やすのだ。他の種族でも同様の反応を見せるのだろうか？私はここからさほど遠くない、キャラバンタウンと呼ばれる場所からの通訊を受信した。\n\nそこでは今でも動物が生息しているようだ。その場しのぎの船員たちはもう私には必要ない。私は真の兵士を創造するのだ。忠実なる兵士を。\nオロフ・ウィルクストーム",
           "이 '은둔자'들에게 잠재력이 있다. 한때는 분명 쥐였지만, 이제는 난폭해졌을 뿐만 아니라 한층 더 영리해졌다.\n\n녀석들을 훈련시키는 과정 중에 있다. 식량과 고통을 회유책으로 사용해 훈련시킬 수 있다. 녀석들의 피를 공유해서 돌연변이도 증가하고 있다. 다른 종에게도 똑같이 작용할지 궁금하다. 여기서 멀지 않은 캐러밴 타운에서 신호가 들어왔다.\n\n활발한 동물 사육이 이루어지고 있다고 한다. 이제 더 이상 무능력한 선원들이 필요하지 않게 되었다. 진정한 병사들을 만들어 낼 것이다. 충성스러운 병사들을.\n~올로프 윌크스트롬",
           "А у паразитов есть потенциал. Когда-то они явно были крысами, но с тех пор выросли, обнаглели и поумнели.\n\nЯ уже добился некоторых успехов в их дрессировке. Кнут и пряник – все как всегда. Что любопытно, при кровосмешении их мутации усиливаются. Интересно, с другими видами будет так же? Я получил радиосообщение из городка под названием Караван неподалеку отсюда.\n\nУ них активная популяция животных. Мне больше не нужен этот бестолковый экипаж. Я создам настоящих солдат. Преданных солдат.\n~Улоф Вилкстром"
@@ -33125,7 +33125,7 @@
           "Además, al mezclar su sangre, sus mutaciones aumentan, me pregunto si habrá otras especies que reaccionen igual.",
           "A mieszanie się ich krwi sprawia, że wzrasta liczba mutacji. Ciekawe, czy inny gatunek zareagowałby tak samo?",
           "Transfundir seu sangue fez com que as mutações aumentassem. Será que outra espécie reagiria da mesma forma?",
-          "通過分享它們的血液，突變數也增加了。不知道其他物種是否會有同樣的反應？",
+          "透過分享它們的血液，突變數也增加了。不知道其他物種是否會有同樣的反應？",
           "そして、血を分かち合うことで突然変異を増やすのだ。他の種族でも同様の反応を見せるのだろうか？",
           "녀석들의 피를 공유해서 돌연변이도 증가하고 있다. 다른 종에게도 똑같이 작용할지 궁금하다.",
           "Что любопытно, при кровосмешении их мутации усиливаются. Интересно, с другими видами будет так же?"
@@ -52397,7 +52397,7 @@
           "Refinador de biocombustible avanzado@Mezcla comida cruda y miel para crear biocombustible.",
           "Zaawansowany rafiner biopaliwa@Pozwala wymieszać surowe jedzenie i miód w celu uzyskania biopaliwa.",
           "Refinador de biocombustível avançado@Mistura comida crua e mel para produzir biocombustível.",
-          "高級生質燃料精煉器@通過混合生食與蜂蜜，造出生質燃料。",
+          "高級生質燃料精煉器@透過混合生食與蜂蜜，造出生質燃料。",
           "改良型バイオ燃料精製裝置@未加工の食べ物とハチミツを混ぜて、バイオ燃料を產生できる。",
           "고급 생물 연료 정제기@날음식과 꿀을 섞어 생물 연료를 만듭니다.",
           "Улучшенный очиститель биотоплива@Создает биотопливо, смешивая сырые продукты и мед."
@@ -53090,7 +53090,7 @@
           "Herramienta de tirolina eléctrica@Te permite bajar o subir tirolinas al equipártela.",
           "Elektryczny przyrząd do jazdy na lince@Pozwala jeździć na lince w dół i w górę.",
           "Ferramenta de tirolesa elétrica@Equipe esta ferramenta para utilizar tirolesas.",
-          "電動滑索工具@裝備它後，你可以通過滑索上下滑行。",
+          "電動滑索工具@裝備它後，你可以透過滑索上下滑行。",
           "電動ジップラインツール@これを裝備すればジップラインの上り下りができる。",
           "전기 집라인 도구@집라인을 타고 오르내릴 수 있습니다.",
           "Электрический блок для зиплайна@Наденьте, чтобы ездить вверх-вниз по зиплайнам."
@@ -53354,7 +53354,7 @@
           "Plano: Ancla fija mejorada@Se puede aprender en la mesa de investigación.",
           "Projekt: Zaawansowana trwale zamontowana kotwica@Można nauczyć się go przy stole badawczym.",
           "Diagrama: âncora estacionária avançada@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級固定錨@可以進行研究。",
+          "藍圖：高級固定錨@可以在研究桌子",
           "ブループリント：改良型固定式アンカー@研究テーブルで習得できる。",
           "청사진: 고급 고정식 앵커@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Улучшенный постоянный якорь@Можно изучить на рабочем столе."
@@ -53387,7 +53387,7 @@
           "Plano: Batería avanzada@Se puede aprender en la mesa de investigación.",
           "Projekt: Zaawansowana bateria@Można nauczyć się go przy stole badawczym.",
           "Diagrama: bateria avançada@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級電池@可以進行研究。",
+          "藍圖：高級電池@可以在研究桌中",
           "ブループリント：改良型バッテリー@研究テーブルで習得できる。",
           "청사진: 고급 배터리@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Улучшенная батарейка@Можно изучить на рабочем столе."
@@ -53420,7 +53420,7 @@
           "Plano: Soldadora eléctrica@Se puede aprender en la mesa de investigación.",
           "Projekt: Elektryczny piec do wytapiania@Można nauczyć się go przy stole badawczym.",
           "Diagrama: fundição elétrica@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級熔爐@可以進行研究。",
+          "藍圖：高級熔爐@可以在研究桌中學習",
           "ブループリント：電気溶鉱爐@研究テーブルで習得できる。",
           "청사진: 전기 제련기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Электрическая плавильня@Можно изучить на рабочем столе."
@@ -53453,7 +53453,7 @@
           "Plano: Refinador de biocombustible avanzado@Se puede aprender en la mesa de investigación.",
           "Projekt: Zaawansowany rafiner biopaliwa@Można nauczyć się go przy stole badawczym.",
           "Diagrama: refinador de biocombustível avançado@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級生質燃料提煉機@可以進行研究。",
+          "藍圖：高級生質燃料提煉機@可以在研究桌中學習。",
           "ブループリント：改良型バイオ燃料精製裝置@研究テーブルで習得できる。",
           "청사진: 고급 생물 연료 정제기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Улучшенный очиститель биотоплива@Можно изучить на рабочем столе"
@@ -53486,7 +53486,7 @@
           "Plano: Herramienta de tirolina eléctrica@Se puede aprender en la mesa de investigación.",
           "Projekt: Elektryczny przyrząd do jazdy na lince@Można nauczyć się go przy stole badawczym.",
           "Diagrama: ferramenta de tirolesa elétrica@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級滑索工具@可以進行研究。",
+          "藍圖：高級滑索工具@可以在研究桌中學習。",
           "ブループリント：電動ジップラインツール@研究テーブルで習得できる。",
           "청사진: 전기 집라인 도구@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Электрический блок для зиплайна@Можно изучить на рабочем столе."
@@ -53519,7 +53519,7 @@
           "Plano: Mochila grande@Se puede aprender en la mesa de investigación.",
           "Projekt: Duży plecak@Można nauczyć się go przy stole badawczym.",
           "Diagrama: mochila grande@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：大背包@可以進行研究。",
+          "藍圖：大背包@可以在研究桌中學習。",
           "ブループリント：大きなバックパック@研究テーブルで習得できる。",
           "청사진: 큰 배낭@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Большой рюкзак@Можно изучить на рабочем столе."
@@ -53783,7 +53783,7 @@
           "Plano: Herramientas de titanio@Se puede aprender en la mesa de investigación.",
           "Projekt: Tytanowe narzędzia@Można nauczyć się go przy stole badawczym.",
           "Diagrama: ferramentas de titânio@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：鈦工具@可以進行研究。",
+          "藍圖：鈦工具@可以在研究桌中學習。",
           "ブループリント：チタンの道具@研究テーブルで習得できる。",
           "청사진: 티타늄 도구@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Титановые инструменты@Можно изучить на рабочем столе."
@@ -58767,7 +58767,7 @@
         "Flags": 0
       },
       {
-        "Name": "中文",
+        "Name": "正體中文",
         "Code": "zh-TW",
         "Flags": 0
       },
