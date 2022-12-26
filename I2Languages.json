@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 480
+    "m_PathID": 481
   },
   "m_Name": "I2Languages",
   "mSource": {
@@ -554,7 +554,7 @@
           "Conectándose...",
           "Łączenie",
           "Conectando",
-          "連接中",
+          "連線中",
           "接続しています",
           "연결 중",
           "Подключение"
@@ -587,7 +587,7 @@
           "No te pudiste unir al mundo.",
           "Nie udało się dołączyć do świata",
           "Falha ao entrar no jogo",
-          "無法加入世界",
+          "未能加入世界",
           "世界の參加に失敗しました",
           "세계 참여에 실패했습니다.",
           "Не удалось присоединиться к миру"
@@ -818,7 +818,7 @@
           "No se han encontrado mundos.\nSolo puedes conectarte a mundos creados por tus amigos de Steam.",
           "Nie znaleziono żadnego świata.\nMożesz połączyć się jedynie ze światami, których host jest twoim znajomym na portalu Steam.",
           "Nenhum mundo encontrado.\nVocê só pode se conectar a jogos criados por um amigo do Steam.",
-          "你無法找到任何一個世界。\n你只能連接到Steam好友主理的世界。",
+          "你無法找到任何一個世界。\n你只能連線到Steam好友主理的世界。",
           "世界が見つかりません。\nSteam上の友達がホストする世界のみ接続できます。",
           "세계를 찾을 수 없습니다.\nSteam 친구가 호스트인 세계에만 접속할 수 있습니다.",
           "Миры не найдены.\nМожно подключаться только к мирам под управлением друзей в Steam."
@@ -2963,7 +2963,7 @@
           "Habilitar etiqueta con nombre",
           "Włącz plakietki",
           "Habilitar nome",
-          "啟用姓名標籤",
+          "啟用名字標籤",
           "ネームタグを有効にする",
           "이름 태그 사용",
           "Показывать имя"
@@ -7781,7 +7781,7 @@
           "Recoger {[ItemCount]} objetos",
           "Zbierz przedmioty: {[ItemCount]}",
           "Pegar {[ItemCount]} itens",
-          "收集到 {[ItemCount]}個物品",
+          "收集到 {[ItemCount]} 個物品",
           "{[ItemCount]}アイテムを集める",
           "{[ItemCount]}개 아이템 수집",
           "Собрать предметы: {[ItemCount]}"
@@ -15041,7 +15041,7 @@
           "Plano: Receptor@Se puede aprender en la mesa de investigación.",
           "Projekt: Odbiornik@",
           "Diagrama: Receptor@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：接收器@可以在研究桌中學習。",
+          "藍圖：接收器@可以進行研究。",
           "ブループリント：レシーバー@",
           "청사진: 수신기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Приемник@Можно изучить на рабочем столе."
@@ -15074,7 +15074,7 @@
           "Plano: Batería@Se puede aprender en la mesa de investigación.",
           "Projekt: Bateria@",
           "Diagrama: Bateria@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：電池@可以在研究桌中學習。",
+          "藍圖：電池@可以進行研究。",
           "ブループリント：バッテリー@",
           "청사진: 배터리@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Батарейка@Можно изучить на рабочем столе."
@@ -15107,7 +15107,7 @@
           "Plano: Antena@Se puede aprender en la mesa de investigación.",
           "Projekt: Antena@",
           "Diagrama: Antena@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：天線@可以在研究桌中學習。",
+          "藍圖：天線@可以進行研究。",
           "ブループリント：アンテナ@",
           "청사진: 안테나@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Антенна@атарейка@Можно изучить на рабочем столе."
@@ -15140,7 +15140,7 @@
           "Plano: Linterna frontal@Se puede aprender en la mesa de investigación.",
           "Projekt: Latarka na głowę@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Lanterna@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：頭燈@可以在研究桌中學習。",
+          "藍圖：頭燈@可以進行研究。",
           "ブループリント：ヘッドライト@",
           "청사진: 전조등@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Налобный фонарь@Можно изучить на рабочем столе"
@@ -15173,7 +15173,7 @@
           "Plano: Motor@Se puede aprender en la mesa de investigación.",
           "Projekt: Silnik@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Motor@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：引擎@可以在研究桌中學習。",
+          "藍圖：引擎@可以進行研究。",
           "ブループリント：エンジン@",
           "청사진: 엔진@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Мотор@Можно изучить на рабочем столе"
@@ -15206,7 +15206,7 @@
           "Plano: Volante@Se puede aprender en la mesa de investigación.",
           "Projekt: Ster@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Volante@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：方向盤@可以在研究桌中學習。",
+          "藍圖：方向盤@可以進行研究。",
           "ブループリント：舵輪@",
           "청사진: 핸들@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Руль@Можно изучить на рабочем столе"
@@ -15239,7 +15239,7 @@
           "Plano: Machete@Se puede aprender en la mesa de investigación.",
           "Projekt: Maczeta@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Machete@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：砍刀@可以在研究桌中學習。",
+          "藍圖：砍刀@可以進行研究。",
           "ブループリント：マチェーテ@",
           "청사진: 마체테칼@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Мачете@Можно изучить на рабочем столе"
@@ -15272,7 +15272,7 @@
           "Plano: Depósito de combustible@Se puede aprender en la mesa de investigación.",
           "Projekt: Zbiornik paliwa@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tanque de combustível@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：燃料箱@可以在研究桌中學習。",
+          "藍圖：燃料箱@可以進行研究。",
           "ブループリント：燃料タンク@",
           "청사진: 연료 탱크@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Бензобак@Можно изучить на рабочем столе"
@@ -15305,7 +15305,7 @@
           "Plano: Refinador de biocombustible@Se puede aprender en la mesa de investigación.",
           "Projekt: Rafiner biopaliwa@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Refinador de combustível@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：生質燃料精煉器@可以在研究桌中學習。",
+          "藍圖：生質燃料精煉器@可以進行研究。",
           "ブループリント：バイオ燃料の精製裝置@",
           "청사진: 생물 연료 정제기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Очиститель биотоплива@Можно изучить на рабочем столе"
@@ -16229,7 +16229,7 @@
           "Suelo elevado@Un suelo que está a la altura de la mitad de la pared.",
           "Podłoga podniesiona@Podłoga wyrastająca z połowy wysokości ściany.",
           "Piso levantado@Tem metade da altura de uma parede.",
-          "地臺@有半墻高。",
+          "地臺@有半牆高。",
           "上げ底@壁の半分の高さのフロア。",
           "올라온 바닥@벽의 절반 높이 바닥입니다.",
           "Приподнятый пол@Пол высотой до средины стены."
@@ -16262,7 +16262,7 @@
           "Suelo elevado triangular@Un suelo que está a la altura de la mitad de la pared.",
           "Trójkątna podłoga podniesiona@Podłoga wyrastająca z połowy wysokości ściany.",
           "Piso triangular levantado@Tem metade da altura de uma parede.",
-          "三角形地臺@有半墻高。",
+          "三角形地臺@有半牆高。",
           "三角の上げ底@壁の半分の高さのフロア。",
           "삼각 올라온 바닥@벽의 절반 높이 바닥입니다.",
           "Треугольный приподнятый пол@Пол высотой до средины стены."
@@ -16394,7 +16394,7 @@
           "Media escalera@Ayuda a subir hasta la mitad de la pared.",
           "Niska rampa@Pozwala sięgnąć połowy wysokości ściany.",
           "Meia-escada@Alcança a metade da altura de uma parede.",
-          "半高的樓梯@讓你站在半墻高的地方。",
+          "半高的樓梯@讓你站在半牆高的地方。",
           "半分の階段@壁の半分の高さまで上がることができます。",
           "반 계단@벽 높이의 절반에 닿을 수 있습니다.",
           "Половина лестницы@Можно подняться до средины стены."
@@ -17978,7 +17978,7 @@
           "Tirolina@Es muy divertido subirse en ella.",
           "Linka@Fajnie się po niej zjeżdża.",
           "Tirolesa@É divertido de usar.",
-          "滑索@溜滑索很好玩。",
+          "滑索@坐滑索很好玩。",
           "ジップライン@乗って楽しもう。",
           "집라인@재밌게 탈 수 있습니다.",
           "Зиплайн@Кататься по нему – одно удовольствие."
@@ -18638,7 +18638,7 @@
           "Volante@Te permite rotar la balsa. Es muy útil combinado con un motor.",
           "Ster@Pozwala na obracanie tratwy. Szczególnie przydatny w połączeniu z silnikiem.",
           "Volante@Permite que você gire o barco. Melhor desempenho ao combinar com um motor.",
-          "方向盤@可以讓木筏轉向，與引擎搭配時更有用。",
+          "方向盤@可以給木筏轉向，與引擎搭配時尤其有用。",
           "舵輪@いかだを方向転換させられるようになります。エンジンと組み合わせると、非常に便利です。",
           "핸들@뗏목을 회전시킬 수 있게 해줍니다. 엔진과 함께 쓰면 더욱 유용합니다.",
           "Штурвал@Позволяет разворачивать плот. Особенно полезен в сочетании с мотором."
@@ -20222,7 +20222,7 @@
           "Plano: Fuegos artificiales@Se puede aprender en la mesa de investigación.",
           "Projekt: Fajerwerk@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Fogos de artifício@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：煙火@可以在研究桌中學習。",
+          "藍圖：煙火@可以進行研究。",
           "ブループリント：花火@",
           "청사진: 폭죽@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Фейерверк@Можно изучить на рабочем столе."
@@ -20420,7 +20420,7 @@
           "Plano: Depósito grande@Se puede aprender en la mesa de investigación.",
           "Projekt: Duża skrzynia@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Armazém grande@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：大儲藏間@可以在研究桌中學習。",
+          "藍圖：大儲藏間@可以進行研究。",
           "ブループリント：大きなストーレッジ@",
           "청사진: 대형 창고@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Большое хранилище@Можно изучить на рабочем столе."
@@ -20453,7 +20453,7 @@
           "Plano: Detector de metales@Se puede aprender en la mesa de investigación.",
           "Projekt: Wykrywacz metalu@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Detector de metais@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：金屬探測器@可以在研究桌中學習。",
+          "藍圖：金屬探測器@可以進行研究。",
           "ブループリント：金屬探知機@",
           "청사진: 금속 탐지기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Металлоискатель@Можно изучить на рабочем столе."
@@ -20717,7 +20717,7 @@
           "Plano: Cargador de batería@Se puede aprender en la mesa de investigación.",
           "Projekt: Ładowarka do baterii@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Carregador de bateria@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：電池充電器@可以在研究桌中學習。",
+          "藍圖：電池充電器@可以進行研究。",
           "ブループリント：充電器@",
           "청사진: 배터리 충전기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Зарядное устройство@Можно изучить на рабочем столе.."
@@ -20750,7 +20750,7 @@
           "Plano: Herramienta de tirolina@Se puede aprender en la mesa de investigación.",
           "Projekt: Przyrząd do jazdy na lince@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Ferramenta de tirolesa@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：滑索工具@可以在研究桌中學習。",
+          "藍圖：滑索工具@可以進行研究。",
           "ブループリント：ジップライン用具@",
           "청사진: 집라인 도구@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Блок для зиплайна@Можно изучить на рабочем столе."
@@ -21014,7 +21014,7 @@
           "Plano: Tirolina@Se puede aprender en la mesa de investigación.",
           "Projekt: Linka@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tirolesa@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：滑索@可以在研究桌中學習。",
+          "藍圖：滑索@可以進行研究。",
           "ブループリント：ジップライン@",
           "청사진: 집라인@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Зиплайн@Можно изучить на рабочем столе."
@@ -21047,7 +21047,7 @@
           "Plano: Purificador eléctrico@Se puede aprender en la mesa de investigación.",
           "Projekt: Elektryczny filtr@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Filtro elétrico@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：電子淨化器@可以在研究桌中學習。",
+          "藍圖：電子淨化器@可以進行研究。",
           "ブループリント：電気洗浄機@",
           "청사진: 전기 정수기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Электрический опреснитель@Можно изучить на рабочем столе."
@@ -21179,7 +21179,7 @@
           "Plano: Tubería de agua@Se puede aprender en la mesa de investigación.",
           "Projekt: Wodociąg@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tubo hídrico@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：水管@可以在研究桌中學習。",
+          "藍圖：水管@可以進行研究。",
           "ブループリント：水パイプ@",
           "청사진: 물 파이프@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Водопроводная труба@Можно изучить на рабочем столе."
@@ -21212,7 +21212,7 @@
           "Plano: Tanque de agua@Se puede aprender en la mesa de investigación.",
           "Projekt: Zbiornik na wodę@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tanque de água@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：水箱@可以在研究桌中學習。",
+          "藍圖：水箱@可以進行研究。",
           "ブループリント：水タンク@",
           "청사진: 물 탱크@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Бак для воды@Можно изучить на рабочем столе."
@@ -21674,7 +21674,7 @@
           "Plano: Tubería@Se puede aprender en la mesa de investigación.",
           "Projekt: Przewód paliwowy@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Tubo de combustível@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：燃料管@可以在研究桌中學習。",
+          "藍圖：燃料管@可以進行研究。",
           "ブループリント：パイプ@",
           "청사진: 연료 파이프@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Топливная труба@Можно изучить на рабочем столе."
@@ -23357,7 +23357,7 @@
           "Plano: Exprimidor@Se puede aprender en la mesa de investigación.",
           "Projekt: Sokowirówka@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Espremedor de frutas@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：榨汁機@可以在研究桌中學習。",
+          "藍圖：榨汁機@可以進行研究。",
           "ブループリント：ジューサー@研究デスクで習得できます。",
           "청사진: 주스기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Соковыжималка@Можно изучить на рабочем столе."
@@ -23390,7 +23390,7 @@
           "Plano: Recicladora@Se puede aprender en la mesa de investigación.",
           "Projekt: Urządzenie do recyklingu@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Recicladora@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：回收器@可以在研究桌中學習。",
+          "藍圖：回收器@可以進行研究。",
           "ブループリント：リサイクルボックス@研究デスクで習得できます。",
           "청사진: 재활용기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Устройство для переработки@Можно изучить на рабочем столе."
@@ -23423,7 +23423,7 @@
           "Plano: Controles del motor@Se puede aprender en la mesa de investigación.",
           "Projekt: Układ sterowania silnika@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Controles de motor@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：引擎控制裝置@可以在研究桌中學習。",
+          "藍圖：引擎控制裝置@可以進行研究。",
           "ブループリント：エンジンコントロール@研究デスクで習得できます。",
           "청사진: 엔진 제어 장치@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Управление мотором@Можно изучить на рабочем столе."
@@ -23456,7 +23456,7 @@
           "Plano: Aerogenerador@Se puede aprender en la mesa de investigación.",
           "Projekt: Turbina wiatrowa@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Turbina de vento@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：風力發電機@可以在研究桌中學習。",
+          "藍圖：風力發電機@可以進行研究。",
           "ブループリント：風車@研究デスクで習得できます。",
           "청사진: 풍력 발전기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Ветряная турбина@Можно изучить на рабочем столе."
@@ -23687,7 +23687,7 @@
           "Plano: Vaso de cristal@Se puede aprender en la mesa de investigación.",
           "Projekt: Szklanka@Można nauczyć się go przy stole badawczym.",
           "Diagrama: Copo para drinques@Pode-se aprender na mesa de pesquisa.",
-          "藍圖：玻璃杯@可以在研究桌中學習。",
+          "藍圖：玻璃杯@可以進行研究。",
           "ブループリント：グラス@研究デスクで習得できます。",
           "청사진: 유리컵@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Стакан@Можно изучить на рабочем столе."
@@ -24249,7 +24249,7 @@
           "Solidna drewniana podłoga@Wykorzystywana do budowy kolejnych pięter i dachu. Nie można jej stawiać w powietrzu.",
           "Piso sólido de madeira@Para construir andares adicionais e teto. Não pode ser construído no ar.",
           "堅固木質地板@用來建更高房層和屋頂。不能作為木筏屋的第一層。",
-          "しっかりした木の牀板@追加の床や屋根を作るのに使います。空中で作ることができません。",
+          "しっかりした木の床板@追加の床や屋根を作るのに使います。空中で作ることができません。",
           "견고한 나무 바닥@바닥과 지붕을 추가로 만들 때 사용합니다. 지지하는 구조물이 필요합니다.",
           "Прочный деревянный настил@Позволяет достраивать новые этажи и крышу. Нельзя использовать без основы."
         ],
@@ -24282,7 +24282,7 @@
           "Trójkątna solidna drewniana podłoga@Wykorzystywana do budowy kolejnych pięter i dachu. Nie można jej stawiać w powietrzu.",
           "Piso sólido triangular de madeira@Para construir andares adicionais e teto. Não pode ser construído no ar.",
           "堅固三角木質地板@用來建更高房層和屋頂。不能作為木筏屋的第一層。",
-          "三角のしっかりした木の牀板@追加のフロアや屋根を作るのに使います。空中で作ることができません。",
+          "三角のしっかりした木の床板@追加のフロアや屋根を作るのに使います。空中で作ることができません。",
           "삼각 견고한 나무 바닥@바닥과 지붕을 추가로 만들 때 사용합니다. 지지하는 구조물이 필요합니다.",
           "Треугольный прочный деревянный настил@Позволяет достраивать новые этажи и крышу. Нельзя использовать без основы."
         ],
@@ -24314,7 +24314,7 @@
           "Suelo firme elevado@Suelo con una altura media.",
           "Podniesiona solidna podłoga@Podłoga wyrastająca z połowy wysokości ściany.",
           "Piso sólido levantado@Tem metade da altura de uma parede.",
-          "堅固地臺@有半墻高。",
+          "堅固地臺@有半牆高。",
           "しっかりした上げ底@壁の半分の高さのフロア。",
           "올라온 견고한 바닥@벽의 절반 높이 바닥입니다.",
           "Приподнятый прочный пол@Пол высотой до середины стены."
@@ -24347,7 +24347,7 @@
           "Suelo firme elevado triangular@Suelo con una altura media.",
           "Trójkątna podniesiona solidna podłoga@Podłoga wyrastająca z połowy wysokości ściany.",
           "Piso sólido triangular levantado@Tem metade da altura de uma parede.",
-          "堅固三角地臺@有半墻高。",
+          "堅固三角地臺@有半牆高。",
           "三角のしっかりした上げ底@壁の半分の高さのフロア。",
           "삼각 올라온 견고한 바닥@벽의 절반 높이 바닥입니다.",
           "Треугольный приподнятый прочный пол@Пол высотой до середины стены."
@@ -24479,7 +24479,7 @@
           "Escaleras firmes medianas@Te permiten alcanzar una altura media.",
           "Solidna niska rampa@Pozwala sięgnąć połowy wysokości ściany.",
           "Meia-escada sólida@Alcança a metade da altura de uma parede.",
-          "堅固半高樓梯@方便你站到半墻高的地方。",
+          "堅固半高樓梯@方便你站到半牆高的地方。",
           "しっかりした半分の階段@壁の半分の高さまで上がることができます。",
           "반 견고한 계단@벽 높이의 절반에 닿을 수 있습니다.",
           "Половина прочной лестницы@Можно подняться до середины стены."
@@ -25865,7 +25865,7 @@
           "Cactus@¡Ay!",
           "Kaktus@Auć!",
           "Cacto@Ai!",
-          "仙人掌@痛！",
+          "仙人掌@好刺！",
           "サボテン@イタッ！",
           "선인장@아얏!",
           "Кактус@Ай!"
@@ -25997,7 +25997,7 @@
           "Armario@Decorativo, no cabe mucho dentro.",
           "Kredens@Ozdobny mebel z niewielką ilością miejsca na przechowywanie.",
           "Guarda-louça@Uma peça decorativa com pouca capacidade de armazenamento.",
-          "櫥櫃@裝飾用傢俱，儲藏空間很小。",
+          "櫥櫃@裝飾用家具，儲藏空間很小。",
           "戸棚@少量の物を収納できる裝飾的な棚。",
           "찬장@물건 보관이 가능한 장식입니다.",
           "Шкаф для посуды@Декоративное и не очень вместительное хранилище."
@@ -26954,7 +26954,7 @@
           "Sal y pimienta@Por si tu chef es un sosaina.",
           "Solniczka i pieprzniczka@Niezbędne, jeśli kucharz poskąpił przypraw.",
           "Saleiro e pimenteiro@Necessários caso o cozinheiro seja sovina.",
-          "胡椒鹽瓶@萬一遇到捨不得放調料的廚師就很有用。",
+          "胡椒鹽瓶@萬一遇到捨不得放調味料的廚師就很有用。",
           "塩とコショウ入れ@シェフの味付けが足りない時用です。",
           "소금과 후추 쉐이커@풍미를 더합니다.",
           "Солонка и перечница@Если вдруг попался жадный повар."
@@ -29066,7 +29066,7 @@
           "Mmmm... ¿Febrero? \n\nHemos recibido muchas señales, puede que alguien venga a ayudarnos. No nos estamos muriendo de hambre... por ahora.\n\nEl reactor de Selene puede que sea la única oportunidad que tenemos ante este océano infinito, y tú lo sabías, Gorrión. Búho cree que nos has traicionado, pero seguro que tenías una tus motivos para abandonarnos.\n\nEspero que consigas llegar a Selene. Espero que termines el reactor, por todos nosotros.\n~Cuco",
           "Hmm… LUTY (?) \n\nOdebraliśmy wiele sygnałów. Może ktoś zdoła nam pomóc. Nie umieramy z głodu… jeszcze.\n\nReaktor w Selene może być jedyną szansą, jaką mamy w walce z tym bezkresnym oceanem. Wiedziałaś o tym, Wróbel. Sowa uważa, że nas zdradziłaś. Ale musiałaś mieć dobry powód, żeby nas tu zostawić.\n\nMam nadzieję, że uda ci się dotrzeć do Selene i dokończyć budowę reaktora. Dla dobra nas wszystkich.\n~Kukułka",
           "Hã… FEVEREIRO(?!) \n\nCaptamos vários sinais. Talvez alguém venha nos ajudar. Não estamos morrendo de fome… ainda.\n\nO reator em Selene pode ser nossa única chance contra este oceano infinito, e você sabia disso, Pardal. Coruja acha que você nos traiu. Mas você deve ter tido um bom motivo para nos deixar aqui.\n\nEspero que chegue em Selene. Espero que você termine o reator. Para o bem de todos nós.\n~Cuco",
-          "呃……二月（？）\n\n我們接收到了很多訊號。也許會有人來幫助我們。到目前為止……我們還沒有餓死。\n\n塞勒涅的反應堆可能是我們對抗這無盡汪洋的唯一機會。你很清楚這一點，麻雀。貓頭鷹認為你背叛了我們，但你把我們留在這裡一定是事出有因。\n\n我希望你能抵達塞勒涅。爲了我們大家著想，我希望你能摧毀反應堆。\n~杜鵑",
+          "呃……二月（？）\n\n我們接收到了很多訊號。也許會有人來幫助我們。到目前為止……我們還沒有餓死。\n\n塞勒涅的反應爐可能是我們對抗這無盡汪洋的唯一機會。你很清楚這一點，麻雀。貓頭鷹認為你背叛了我們，但你把我們留在這裡一定是事出有因。\n\n我希望你能抵達塞勒涅。爲了我們大家著想，我希望你能摧毀反應爐。\n~杜鵑",
           "えーと…2月(?)\n\n私たちはたくさんの訊號を拾った。もしかしたら誰かが來て助けてくれるかもしれない。飢えてはいない…今のところは。\n\nセレネのリアクターはこの終わりのない海に対する唯一の希望かもしれない。それを分かっていたんだろう、スパロー。オウルは君が私たちを裏切ったんだと考えている。でも、君には私たちをここに置き去りにするほどの事情があったに違いない。\n\n君がセレネにたどり著いていることを願う。そして君がリアクターを完成させていることを願う。私たち、そしてみんなのために。\nカッコー",
           "음... 2월(?) \n\n여러 신호가 잡혔다. 아마도 누군가 우릴 도와주러 올 것이다. 아직은... 굶어 죽지 않았다.\n\n셀레네의 원자로만이 이 망망대해를 벗어날 마지막 기회일 것이다. 참새, 넌 알고 있었겠지. 올빼미는 네가 배신했다고 생각하고 있다. 그래도 우릴 내버려 두고 갈 좋은 변명거리가 있었겠지.\n\n셀레네에 도착해서 원자로를 끝내버렸길 바란다. 우리 모두를 위해서 말이지.\n~뻐꾸기",
           "Эээ… ФЕВРАЛЬ(?) \n\nМы ловим много сигналов. Может, кто-то приплывет и поможет нам. Мы не голодаем… пока.\n\nСкорее всего, реактор на «Селене» – наш единственный шанс в этом бескрайнем океане. И ты, Синица, об этом знала. Филин думает, что ты нас предала. Но у тебя наверняка была веская причина бросить нас здесь.\n\nНадеюсь, ты доберешься до «Селены» и доделаешь реактор. За нас всех.\n~Сокол"
@@ -29095,7 +29095,7 @@
           "UGGLANS RADIOANTECKNINGAR:\n22 dec ~Nödanrop mottaget. Balboa Island.\n9 jan ~Göken vägrar inse fakta.\n2 feb ~Skottlossning i fjärran. Tangaroa City?\n14 feb ~Sparvens anrop. I Selene?\n6 mar ~Ännu ett nödanrop. Varuna Point? Försvunnet barn?\n16 apr ~Flottåkarna drömmer om UTOPIN. Det är lönlöst.",
           "NOTES DE OWL :\n22 déc. ~Reçu un signal de détresse. Île Balboa.\n9 janv. ~Cuckoo refuse de voir la réalité en face.\n2 févr. ~Coups de feu au loin. Tangaroa ?\n14 févr. ~Transmission de Sparrow. Depuis Sélène ?\n6 mars ~Nouveau signal de détresse. Varuna Point. Enfant disparu ?\n16 avr. ~Des marins qui fantasment sur UTOPIA. Idiots.",
           "NOTE RADIO DEL GUFO:\n22 dic ~Richiesta di soccorso ricevuta. Isola Balboa.\n9 gen ~Il Cuculo non accetterà i fatti.\n2 feb ~Spari in lontananza. Tangaroa?\n14 feb ~Una comunicazione della Gazza da Selene?\n6 mar ~Un’altra richiesta di soccorso. Punto Varuna. Un bambino scomparso?\n16 apr ~Gli zatteristi sognano UTOPIA. Speranza vana.",
-          "EULES FUNKGERÄT-NOTIZEN:\n22. Dez. ~Notruf erhalten. Balboa Island.\n9. Jan. ~Kuckuck weigert sich, Tatsachen ins Auge zu sehen.\n2. Feb. ~Schüsse in der Ferne. Tangaroa City?\n14. Feb. ~Spatz『 Komm. In Selene?\n6. März ~Ein weiterer Notruf. Varuna Point. Ein vermisstes Kind?\n16. Apr. ~Flößer träumen von UTOPIA. Naive Hoffnung. ",
+          "EULES FUNKGERÄT-NOTIZEN:\n22. Dez. ~Notruf erhalten. Balboa Island.\n9. Jan. ~Kuckuck weigert sich, Tatsachen ins Auge zu sehen.\n2. Feb. ~Schüsse in der Ferne. Tangaroa City?\n14. Feb. ~Spatz‘ Komm. In Selene?\n6. März ~Ein weiterer Notruf. Varuna Point. Ein vermisstes Kind?\n16. Apr. ~Flößer träumen von UTOPIA. Naive Hoffnung. ",
           "GRABACIONES DE BÚHO:\n22 de diciembre: Hemos recibido una llamada de socorro, ubicación: isla Balboa.\n9 de enero: Cuco no atiende a razones.\n2 de febrero: Se han oído disparos a lo lejos, ¿en Tangaroa?\n14 de febrero: Mensaje de Gorrión, ¿desde Selene?\n6 de marzo: Otra llamada de socorro, desde punta Varuna. Algo de un niño desaparecido.\n16 de abril: Balseros que sueñan con una UTOPÍA, una esperanza carente de todo sentido.",
           "KOMUNIKATY RADIOWE SOWY:\n22 grudnia ~Odebraliśmy wezwanie pomocy. Wyspa Balboa.\n9 stycznia ~Kukułka nie chce się pogodzić z faktami.\n2 lutego ~W oddali słychać strzały. Miasto Tangaroa?\n14 lutego ~Komunikat od Wróbla. Z Selene?\n6 marca ~Kolejne wezwanie pomocy. Varuna Point. Zaginione dziecko?\n16 kwietnia ~Tratwiarze marzą o UTOPII. Głupia nadzieja.",
           "GRAVAÇÕES DE RÁDIO DE CORUJA:\nDez, 22 – Chamada de socorro recebida. Ilha Balboa.\nJan, 9 – Cuco não aceita os fatos.\nFev, 2 – Tiros à distância. Cidade de Tangaroa?\nFev, 14 – Contato de Pardal em Selene?\nMar, 6 – Outro pedido de socorro. Ponto Varuna. Criança desaparecida?\nAbr, 16 – Jangadeiros sonhando com UTOPIA. Esperança vazia.",
@@ -29124,7 +29124,7 @@
         "Term": "Story/Utopia/Captives",
         "TermType": 0,
         "Languages": [
-          "FROM THE PEOPLE OF UTOPIA\n\nDo NOT trust Olof Wilkstrom. When he arrived here we took his word in good faith. He exploited us at every turn. Now all of us 『dissenters’ are locked up. Which is everyone, by my count.\n\nTo anyone reading this, Olof should be up in the marketplace. BEWARE of his rabid beasts! Please, take the master key from him. Set us free! Set Utopia FREE!\n~Hanne, Utopia Representative",
+          "FROM THE PEOPLE OF UTOPIA\n\nDo NOT trust Olof Wilkstrom. When he arrived here we took his word in good faith. He exploited us at every turn. Now all of us ‘dissenters’ are locked up. Which is everyone, by my count.\n\nTo anyone reading this, Olof should be up in the marketplace. BEWARE of his rabid beasts! Please, take the master key from him. Set us free! Set Utopia FREE!\n~Hanne, Utopia Representative",
           "FRÅN FOLKET I UTOPIN\n\nLita INTE på Olof Wilkström. När han först kom litade vi på allt han sa. Han utnyttjade oss hela tiden. Nu har han låst in alla oss 」oliktänkande」. Och det är allihop, senast jag räknade.\n\nTill den som läser det här: Olof borde vara uppe på marknaden. SE UPP för hans vilddjur! Snälla, ta huvudnyckeln från honom. Befria oss! Befria Utopin!\n~Hanne, representant för Utopin",
           "MESSAGE DU PEUPLE D'UTOPIA\n\nNe faites PAS confiance à Olof Wilkstrom. Quand il est arrivé, nous avons cru à ses discours. Il nous a exploités jusqu'à la moelle. Maintenant, il a fait enfermer tous les « dissidents ». C'est-à-dire tout le monde, apparemment.\n\nÀ quiconque lira ceci : Olof est généralement à l'étage, du côté du marché. ATTENTION à son armée de sales bêtes ! Pitié, prenez-lui sa clé. Libérez-nous ! LIBÉREZ UTOPIA !\n~Hanne, représentante d'Utopia",
           "DALLA GENTE DI UTOPIA\n\nNON fidatevi di Olof Wilkstrom. Quando è arrivato qui, confidavamo nelle sue buone intenzioni. Ma non ha fatto altro che sfruttarci per i suoi scopi, e chiunque abbia osato dissentire è stato rinchiuso. Ossia tutti noi, a occhio e croce.\n\nSe state leggendo questo messaggio, Olof dovrebbe essere al mercato. FATE ATTENZIONE a quelle sue bestiacce rabbiose! Prendetegli la chiave principale. Liberateci, vi prego! LIBERATE Utopia!\n~Hanne, rappresentante di Utopia",
@@ -29157,7 +29157,7 @@
         "Term": "Story/Utopia/DettoRaft",
         "TermType": 0,
         "Languages": [
-          "DETTO'S UTOPIA JOURNAL -SUPER SECRET-\n\nI have my own raft! And it’s hooked up to actual wind turbines! If I had even more power, just imagine all the experiments I could run… \n\nBut now that lunatic Olof appeared.  His cages are already unloaded and now he’s promising to help everyone with his 『army’. \n\nLast I saw him, Olof Wilkstrom ruined Caravan Town. I will NEVER forgive him! I hope Hanne and Ruben listen to me. He is not to be trusted!\n\nJust in case I’ve decided to up the security on my raft. This map should allow only the SMARTEST of people to enter!\n\nLike me!",
+          "DETTO'S UTOPIA JOURNAL -SUPER SECRET-\n\nI have my own raft! And it’s hooked up to actual wind turbines! If I had even more power, just imagine all the experiments I could run… \n\nBut now that lunatic Olof appeared.  His cages are already unloaded and now he’s promising to help everyone with his ‘army’. \n\nLast I saw him, Olof Wilkstrom ruined Caravan Town. I will NEVER forgive him! I hope Hanne and Ruben listen to me. He is not to be trusted!\n\nJust in case I’ve decided to up the security on my raft. This map should allow only the SMARTEST of people to enter!\n\nLike me!",
           "DETTOS UTOPIDAGBOK – SUPERHEMLIG\n\nJag har min egen flotte! Och den är ansluten till riktiga vindturbiner! Tänk vilka experiment jag skulle kunna genomföra om jag hade ännu mer kraft…\n\nMen nu har galningen Olof dykt upp. Han har redan lastat av burarna och lovat att hjälpa alla med sin 」armé」.\n\nSenast jag såg Olof Wilkström förstörde han Caravan Town. Jag kommer ALDRIG förlåta honom! Jag hoppas Hanne och Ruben lyssnar på mig. Det går inte att lita på honom!\n\nBara utifall att har jag förbättrat säkerheten på min flotte. Den här kartan borde se till att bara de SMARTASTE kommer in.\n\nSåna som jag!",
           "JOURNAL DE DETTO À UTOPIA - TOP SECRET\n\nJ'ai mon propre radeau ! Avec de vraies éoliennes ! Avec encore plus d'énergie, je pourrais faire tellement d'expériences... \n\nMais maintenant, ce cinglé d'Olof est ici. Il a déjà déchargé ses cages et il promet d'aider tout le monde grâce à son « armée ». \n\nLa dernière fois que je l'ai vu, Olof Wilkstrom a détruit Caravane-ville. Je ne le pardonnerai JAMAIS ! J'espère que Hanne et Ruben vont m'écouter... On ne peut pas lui faire confiance !\n\nJ'ai amélioré la sécurité de mon radeau, au cas où. Avec cette carte, seuls les vrais génies pourront entrer !\n\nComme moi, bien sûr !",
           "DIARIO DI UTOPIA DI DETTO -SUPER SEGRETO-\n\nHo una zattera tutta mia! Ed è collegata a vere turbine eoliche! Se avessi più energia, potrei persino condurre degli esperimenti fantastici...\n\nMa ora è arrivato quel pazzo di Olof. Ha aperto le gabbie e ora promette di aiutare tutti con il suo 「esercito」.\n\nL’ultima volta che l’ho visto, Olof Wilkstrom ha portato Caravan Town alla rovina. Non potrò MAI perdonarlo! Spero che Hanne e Ruben mi diano retta. Non ci si può fidare di quel tizio!\n\nHo deciso di aumentare la sicurezza sulla mia zattera... Non si sa mai. Questa mappa dovrebbe garantire l’accesso solo alle menti PIÙ ECCELSE!\n\nCome la mia!",
@@ -29165,7 +29165,7 @@
           "DIARIO DE UTOPÍA DE DETTO (SUPERSECRETO)\n\n¡Tengo mi propia balsa! Y está conectada a turbinas eólicas de verdad. Si tuviera aún más energía, imagínate todos los experimentos que podría llevar a cabo... \n\nPero, entonces, apareció ese pirado de Olof. Se cargaron sus jaulas, y ahora promete que su «ejército» ayudará a todo el mundo.\n\nLa última vez que vi a Olof Wilkstrom, había arruinado Ciudad Caravana. ¡NUNCA se lo perdonaré! Espero que Hanne y Ruben me escuchen. ¡No se puede confiar en él!\n\nPor si acaso, he decidido mejorar la seguridad de mi balsa. Este mapa debería bastar para que solo la gente ASTUTA puedan entrar.\n\n¡Gente como yo!",
           "DZIENNIK DETTA Z UTOPII -SUPERTAJNE-\n\nMam swoją własną tratwę! I są podłączone prawdziwe turbiny wiatrowe! Gdybym miał do dyspozycji jeszcze więcej mocy, dopiero mógłbym przeprowadzać eksperymenty… \n\nAle pojawił się tu ten szaleniec, Olof. Wyładował już swoje klatki i obiecuje, że jego „armia」 będzie wszystkim pomagać. \n\nGdy widziałem go ostatnio, Olof Wilkstrom zniszczył Caravan Town. NIGDY mu tego nie wybaczę! Mam nadzieję, że Hanne i Ruben mnie posłuchają. Nie wolno mu ufać!\n\nNa wszelki wypadek zwiększyłem zabezpieczenia na mojej tratwie. Ta mapa pozwoli się tu dostać tylko NAJMĄDRZEJSZYM!\n\nTakim jak ja!",
           "DIÁRIO DE DETTO EM UTOPIA -SUPERSECRETO-\n\nEu tenho minha própria jangada! E ela tem turbinas eólicas de verdade! Imagine todos os experimentos que eu poderia fazer, se tivesse ainda mais energia… \n\nMas agora aquele lunático do Olof apareceu. Suas jaulas já foram descarregadas e ele promete ajudar todo mundo com seu \"exército\". \n\nDa última vez que vi Olof Wilkstrom, ele arruinou a Cidade Caravana. Eu NUNCA vou perdoá-lo! Espero que Hanne e Ruben me escutem. Ele não é confiável!\n\nEu aumentei a segurança da minha jangada, só por precaução. Este mapa só deve permitir a entrada de pessoas MAIS INTELIGENTES!\n\nComo eu!",
-          "德托的烏托邦日記 -超級機密-\n\n我有自己的木筏了！而且它還連著真正的風力渦輪機！如果有更多的動能，我就可以進行各種實驗……\n\n但那個瘋子奧諾夫出現了。他已經卸下籠子，承諾會用他的「軍隊」來幫助大家。\n\n我上一次見到奧諾夫·威克斯特羅姆時，他毀了大篷車鎮。我永遠不會原諒他！我希望漢妮和魯本可以聽我的。他不值得信任！\n\n爲了以防萬一，我決定提升木筏的安全性。這張地圖只允許最聰明的人進入！\n\n就像我一樣！",
+          "德托的烏托邦日記 -超級機密-\n\n我有自己的木筏了！而且它還連著真正的風力發電機！如果有更多的動能，我就可以進行各種實驗……\n\n但那個瘋子奧諾夫出現了。他已經卸下籠子，承諾會用他的「軍隊」來幫助大家。\n\n我上一次見到奧諾夫·威克斯特羅姆時，他毀了大篷車鎮。我永遠不會原諒他！我希望漢妮和魯本可以聽我的。他不值得信任！\n\n爲了以防萬一，我決定提升木筏的安全性。這張地圖只允許最聰明的人進入！\n\n就像我一樣！",
           "デットのユートピア日誌 -超機密- \n\nぼくは自分のいかだを手に入れた！しかも、実際に風力発電機に繋がってる！もっと電力があれば、いろんな実験が出來るんだけどなぁ…\n\nでも今はそれどころじゃない。あの頭のいかれたオロフが現れたんだから。檻はもう荷下ろしされていて、オロフは自分の「軍隊」でみんなを助けるって約束してる。\n\n最後にぼくがオロフを見たのは、オロフがキャラバンタウンを荒廃させた時だ。奴は絶対に許さない！ハンネとルーベンが耳を貸してくれるといいけど。オロフは信用できないんだ！\n\nもしものために、ぼくのいかだのセキュリティを強化しておくことにした。この地図を使って入ってこれるのは「本當に賢い人」だけだ。\n\nぼくみたいなね！",
           "데토의 유토피아 일지 -기밀-\n\n나만의 뗏목이 생겼다! 진짜 풍력 발전기가 달려있다! 동력만 충분하다면, 수많은 실험을 진행할 수 있을 텐데... \n\n하지만 정신 나간 올로프가 나타났다. 그의 우리들이 열렸고, 자신의 '군대'로 모두를 돕겠다고 약속했다. \n\n내가 마지막으로 기억하는 올로프 윌크스트롬은 캐러밴 타운을 파괴했다. 절대로 용서하지 않을 것이다! 한네와 루벤이 내 말을 들었으면 좋겠다. 올로프는 믿을만한 사람이 아니다!\n\n만약의 경우를 대비해서 뗏목에 보안을 강화하기로 했다. 이 지도는 가장 똑똑한 사람들만 이해할 수 있을 것이다!\n\n나처럼!",
           "ЖУРНАЛ УТОПИИ ДЕТТО -СВЕРХСЕКРЕТНО-\n\nУ меня свой плот! Да еще с настоящими воздушными турбинами! Будь у меня больше мощности – ух, какие бы я провел эксперименты… \n\nНо тут появился этот псих Улоф. Он уже выгрузил клетки и теперь обещает всем помочь вместе со своей «армией». \n\nКогда я видел его последний раз, Улоф Вилкстром уничтожил Караван. Я ему НИКОГДА не прощу! Надеюсь, Ханне с Рубеном меня послушают. Ему нельзя доверять!\n\nНа всякий случай я решил усилить систему безопасности своего плота. Эта карта только для САМЫХ УМНЫХ!\n\nВроде меня!"
@@ -29487,7 +29487,7 @@
         "Term": "Story/Vasagatan/OlofsLog2",
         "TermType": 0,
         "Languages": [
-          "As I’ve suspected the crew is completely incompetent. Now they’re claiming RATS have eaten half of our supplies in a matter of weeks. I promised them increased rations if they could bring me one of these ridiculous 『lurkers’ alive.\n\nOf course, the food shortage will need to be handled. Tonight we’re discussing which staff members are most suitable for termination.\n~Olof Wilkstrom",
+          "As I’ve suspected the crew is completely incompetent. Now they’re claiming RATS have eaten half of our supplies in a matter of weeks. I promised them increased rations if they could bring me one of these ridiculous ‘lurkers’ alive.\n\nOf course, the food shortage will need to be handled. Tonight we’re discussing which staff members are most suitable for termination.\n~Olof Wilkstrom",
           "Precis som jag misstänkt är besättningen helt inkompetent. Nu påstår de att RÅTTOR har ätit hälften av all mat på några veckor. Jag har lovat dem större ransoner om de kan visa mig någon av de påstådda fripassagerarna vid liv.\n\nMatbristen måste naturligtvis lösas. Ikväll ska vi diskutera vilka i besättningen vi kan avskeda.\n~Olof Wilkström",
           "Mes soupçons se confirment : cet équipage est complètement incompétent. Maintenant, ils voudraient me faire croire que des RATS ont mangé la moitié de nos vivres en quelques semaines. J'ai promis des rations supplémentaires à quiconque pourra capturer un de ces « rôdeurs » vivant.\n\nLe problème de la pénurie de vivres doit bien sûr être résolu. Ce soir, nous allons décider quels employés sont les moins essentiels.\n~Olof Wilkstrom",
           "Proprio come sospettavo: l’incompetenza dell’equipaggio è disarmante. Ora sostengono che dei TOPI abbiano mangiato metà delle nostre provviste nel giro di poche settimane. Gli ho promesso razioni extra nel caso in cui riescano a portarmi uno di questi 「roditori」 vivo.\n\nOvviamente bisognerà sopperire alla carenza di cibo. Stasera decideremo quali membri dell’equipaggio sono meno... indispensabili.\n~Olof Wilkstrom",
@@ -29520,7 +29520,7 @@
         "Term": "Story/Vasagatan/OlofsLog3",
         "TermType": 0,
         "Languages": [
-          "These 『lurkers’ have potential. They were clearly once rats, now grown into something much more rabid. Yet also smarter.\n\nI’ve already made progress on their training. With food and pain as incentives I can discipline them. And by sharing their blood the mutations increase. I wonder if another species would react the same? I’ve received a transmission from a place called Caravan Town not far from here.\n\nThey have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.\n~Olof Wilkstrom",
+          "These ‘lurkers’ have potential. They were clearly once rats, now grown into something much more rabid. Yet also smarter.\n\nI’ve already made progress on their training. With food and pain as incentives I can discipline them. And by sharing their blood the mutations increase. I wonder if another species would react the same? I’ve received a transmission from a place called Caravan Town not far from here.\n\nThey have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.\n~Olof Wilkstrom",
           "Fripassagerarna har potential. De var tveklöst råttor en gång i tiden, men de har blivit vildare. Och smartare.\n\nJag har redan gjort framsteg med deras träning. Med mat och smärta kan jag disciplinera dem. Genom att dela deras blod tilltar mutationen. Jag undrar om andra arter skulle reagera likadant. Jag har fått ett radiomeddelande från Caravan Town inte långt härifrån.\n\nDe har levande djur där. Jag behöver inte mina slashasar längre. Jag ska skapa riktiga soldater. Lojala soldater.\n~Olof Wilkström",
           "Ces « rôdeurs » ont du potentiel. Ce sont clairement d'anciens rats qui ont évolué vers une forme beaucoup plus dangereuse. Plus intelligente, aussi.\n\nMes tentatives de dressage portent déjà leurs fruits. Ils sont réceptifs aux promesses de nourriture et craignent la douleur. Leurs mutations se développent lorsque leurs sangs entrent en contact. Serait-ce aussi valable pour d'autres espèces ? J'ai capté une transmission d'un endroit nommé Caravane-ville, pas très loin d'ici.\n\nIls ont beaucoup d'animaux. Mon équipage de bras cassés me sera bientôt inutile. Je vais créer de vrais soldats. Des soldats loyaux.\n~Olof Wilkstrom",
           "Questi 「roditori」 hanno del potenziale. Un tempo saranno stati certamente dei topi, evolutisi poi in qualcosa di molto più rabbioso. E di più intelligente.\n\nIl loro addestramento sta già dando i suoi frutti e, grazie ad incentivi a base di cibo e dolore, riesco a disciplinarli. Inoltre, condividendone il sangue, le mutazioni aumentano. Mi chiedo se un’altra specie reagirebbe allo stesso modo! Ho ricevuto una comunicazione da un luogo chiamato Caravan Town, non molto distante da qui.\n\nHanno una popolazione animale attiva. Non ho più bisogno di questo equipaggio improvvisato. Creerò dei veri soldati. Dei soldati leali.\n~Olof Wilkstrom",
@@ -29528,7 +29528,7 @@
           "Estas alimañas tienen potencial: está claro que antes eran ratas normales y corrientes, pero ahora se han convertido en criaturas más... rabiosas, pero también más inteligentes.\n\nHe conseguido buenos resultados entrenándolas y disciplinándolas a través del dolor y la comida. Además, al compartir su sangre, sus mutaciones aumentan. Me pregunto si habrá otras especies que reaccionen igual. He recibido una transmisión de un sitio llamado Ciudad Caravana, no queda lejos de aquí.\n\nTienen una población animal activa, ya no necesito a esta tripulación de pacotilla. Me crearé mis propios soldados de verdad. Soldados perfectos y leales.\n~Olof Wilkstrom",
           "Te „czyhoszczury」 mają potencjał. Najwyraźniej kiedyś były zwykłymi szczurami, tylko wyrosły na znacznie bardziej wściekłe bestie. Ale nabrały też sprytu.\n\nPoczyniłem już postępy w ich szkoleniu. Mogę je kontrolować, odpowiednio dozując jedzenie i ból. A mieszanie się ich krwi sprawia, że wzrasta liczba mutacji. Ciekawe, czy inny gatunek zareagowałby tak samo? Odebrałem transmisję z miejsca zwanego Caravan Town, niedaleko stąd.\n\nMają aktywną populację zwierząt. Nie potrzebuję już tej namiastki załogi. Stworzę prawdziwych żołnierzy. Lojalnych.\n~Olof Wilkstrom",
           "Esses \"roedores\" têm potencial. Apesar de já terem sido meros ratos, agora evoluíram para algo muito mais raivoso e inteligente.\n\nJá obtive algum progresso no treinamento deles. Com comida e dor como incentivos, posso discipliná-los. Transfundir seu sangue fez com que as mutações aumentassem. Será que outra espécie reagiria da mesma forma? Recebi uma transmissão de um lugar chamado Cidade Caravana, não muito longe daqui.\n\nEles têm uma fauna ativa. Não preciso mais dessa tripulação improvisada. Vou criar verdadeiros soldados. Soldados leais.\n~Olof Wilkstrom",
-          "這些「潛伏者」很有潛力。它們以前顯然是老鼠，現在變成了更為狂暴的東西——也變得更聰明了。\n\n對它們的訓練已經取得了進展。我用食物和痛苦作為刺激，成功對它們進行了調教。透過分享它們的血液，突變數也增加了。不知道其他物種是否會有同樣的反應？我收到了一個訊號，來自一個叫大篷車鎮的地方，離這裡不遠。\n\n他們那兒有一群活躍的動物。我不再需要這支臨時隊伍了。我將創造真正的士兵。忠誠的士兵。\n~奧諾夫·威克斯特羅姆",
+          "這些「潛伏者」很有潛力。它們以前顯然是老鼠，現在變成了更為狂暴的東西——也變得更聰明了。\n\n對它們的訓練已經取得了進展。我用食物和痛苦作為刺激，成功對它們進行了調教。通過分享它們的血液，突變數也增加了。不知道其他物種是否會有同樣的反應？我收到了一個訊號，來自一個叫大篷車鎮的地方，離這裡不遠。\n\n他們那兒有一群活躍的動物。我不再需要這支臨時隊伍了。我將創造真正的士兵。忠誠的士兵。\n~奧諾夫·威克斯特羅姆",
           "「ラーカー」たちには可能性がある。元はネズミだった生き物が、今や狂暴な何かに成長している。さらに、知性までも向上しているようだ。\n\n奴らの訓練はすでに進行している。飴と鞭を使い分けることで奴らを統率することができる。そして、血を分かち合うことで突然変異を増やすのだ。他の種族でも同様の反応を見せるのだろうか？私はここからさほど遠くない、キャラバンタウンと呼ばれる場所からの通訊を受信した。\n\nそこでは今でも動物が生息しているようだ。その場しのぎの船員たちはもう私には必要ない。私は真の兵士を創造するのだ。忠実なる兵士を。\nオロフ・ウィルクストーム",
           "이 '은둔자'들에게 잠재력이 있다. 한때는 분명 쥐였지만, 이제는 난폭해졌을 뿐만 아니라 한층 더 영리해졌다.\n\n녀석들을 훈련시키는 과정 중에 있다. 식량과 고통을 회유책으로 사용해 훈련시킬 수 있다. 녀석들의 피를 공유해서 돌연변이도 증가하고 있다. 다른 종에게도 똑같이 작용할지 궁금하다. 여기서 멀지 않은 캐러밴 타운에서 신호가 들어왔다.\n\n활발한 동물 사육이 이루어지고 있다고 한다. 이제 더 이상 무능력한 선원들이 필요하지 않게 되었다. 진정한 병사들을 만들어 낼 것이다. 충성스러운 병사들을.\n~올로프 윌크스트롬",
           "А у паразитов есть потенциал. Когда-то они явно были крысами, но с тех пор выросли, обнаглели и поумнели.\n\nЯ уже добился некоторых успехов в их дрессировке. Кнут и пряник – все как всегда. Что любопытно, при кровосмешении их мутации усиливаются. Интересно, с другими видами будет так же? Я получил радиосообщение из городка под названием Караван неподалеку отсюда.\n\nУ них активная популяция животных. Мне больше не нужен этот бестолковый экипаж. Я создам настоящих солдат. Преданных солдат.\n~Улоф Вилкстром"
@@ -29586,16 +29586,16 @@
         "Term": "Story/Vasagatan/Recording2",
         "TermType": 0,
         "Languages": [
-          "(Transcribed)\n(Captain) - *Knocking* 「Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-」\n(Olof) - 「The crew are planning a mutiny, Captain. It is time to act.」\n(Captain) - 「A mutiny? They’re just trying to stay alive, I- Are you mad?」\n(Olof) - 「I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the 『lurkers’ to our advantage.」",
+          "(Transcribed)\n(Captain) - *Knocking* 「Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-」\n(Olof) - 「The crew are planning a mutiny, Captain. It is time to act.」\n(Captain) - 「A mutiny? They’re just trying to stay alive, I- Are you mad?」\n(Olof) - 「I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.」",
           "(Avskrift)\n(Kaptenen) – *Knackar* 」Wilkström, det är viktigt. Det är dimmigt. Vi vet inte hur högt vattnet stigit. Kartorna är värdelösa. Vi måste…」\n(Olof) – 」Besättningen planerar myteri. Vi måste agera.」\n(Kaptenen) – 」Myteri? De försöker bara överleva, jag… Är du helt från vettet?」\n(Olof) – 」Jag gav dig chansen att leva. Nu måste vi skydda oss från massorna. Vi ska dra nytta av fripassagerarna.」",
           "(Transcription)\n(Capitaine) - *Frappe à la porte* « Wilkstrom, c'est urgent. Nous sommes entourés de brume. Nous ne voyons pas le niveau de l'eau. Les cartes ne sont d'aucune aide. Il faut que... »\n(Olof) - « L'équipage prévoit une mutinerie, capitaine. Nous devons agir. »\n(Capitaine) - « Une mutinerie ? Ils essaient juste de survivre, je... Vous êtes fou ? »\n(Olof) - « Je vous ai sauvé la vie. Nous devons nous protéger de ces moins-que-rien. Nous utiliserons les \"rôdeurs\" à notre avantage. »",
-          "(Trascrizione)\n(Capitano) - *Bussa* 「Wilkstrom, è urgente. La nebbia ci impedisce di capire di quanto è salito il livello dell’acqua. Le mappe sono inutili. Dobbiamo...」\n(Olof) - 「L’equipaggio sta pianificando un ammutinamento, Capitano. È il momento di agire.」\n(Capitano) - 「Un ammutinamento? Stanno solo cercando di sopravvivere... È forse impazzito?」\n(Olof) - 「Vi ho dato la possibilità di sopravvivere. Ora dobbiamo proteggerci dalle masse. Useremo i 『roditori’ a nostro vantaggio.」",
-          "(Transkribiert)\n(Captain) – *Klopfen* „Wilkstrom, es ist dringend. Jetzt ist Nebel. Wir wissen nicht, wie weit das Wasser gestiegen ist. Die Karten sind nutzlos. Wir müssen-「\n(Olof) – „Die Crew plant eine Meuterei, Captain. Es ist Zeit zu handeln.「\n(Captain) - „Eine Meuterei? Sie versuchen nur, am Leben zu bleiben, ich- bist du verrückt?「\n(Olof) – „Ich habe dir eine Chance gegeben zu leben. Jetzt müssen wir uns vor den Massen schützen. Wir werden die ‚Schmarotzer『 zu unserem Vorteil nutzen.「",
+          "(Trascrizione)\n(Capitano) - *Bussa* 「Wilkstrom, è urgente. La nebbia ci impedisce di capire di quanto è salito il livello dell’acqua. Le mappe sono inutili. Dobbiamo...」\n(Olof) - 「L’equipaggio sta pianificando un ammutinamento, Capitano. È il momento di agire.」\n(Capitano) - 「Un ammutinamento? Stanno solo cercando di sopravvivere... È forse impazzito?」\n(Olof) - 「Vi ho dato la possibilità di sopravvivere. Ora dobbiamo proteggerci dalle masse. Useremo i ‘roditori’ a nostro vantaggio.」",
+          "(Transkribiert)\n(Captain) – *Klopfen* „Wilkstrom, es ist dringend. Jetzt ist Nebel. Wir wissen nicht, wie weit das Wasser gestiegen ist. Die Karten sind nutzlos. Wir müssen-「\n(Olof) – „Die Crew plant eine Meuterei, Captain. Es ist Zeit zu handeln.「\n(Captain) - „Eine Meuterei? Sie versuchen nur, am Leben zu bleiben, ich- bist du verrückt?「\n(Olof) – „Ich habe dir eine Chance gegeben zu leben. Jetzt müssen wir uns vor den Massen schützen. Wir werden die ‚Schmarotzer‘ zu unserem Vorteil nutzen.「",
           "(Transcripción)\nCapitán: (tocando a la puerta) Wilkstrom, es urgente, se ha levantado niebla y no sabemos cuánto ha subido la marea. Los mapas no sirven de nada. Tenemos que...\nOlof: La tripulación está planeando un motín, capitán, tenemos que hacer algo al respecto.\nCapitán: ¿Un motín? Solo están intentando seguir con vida. Acaso... ¿Acaso has perdido la cabeza?\nOlof: Os di una oportunidad para seguir con vida, y ahora tenemos que protegernos de las masas. Va siendo hora de sacarles provecho a esas alimañas...",
           "(Transkrypcja)\n(Kapitan) – *pukanie* „Wilkstrom, to pilne. Jest mgła. Nie wiemy, jak bardzo podniosła się woda. Mapy są bezużyteczne. Musimy…」\n(Olof) – „Załoga planuje bunt, kapitanie. Pora działać」.\n(Kapitan) – „Bunt? Chcą po prostu przeżyć. Ja… Czyś ty oszalał?」\n(Olof) – „Dałem panu szansę na przeżycie. Teraz musimy się chronić przed tłuszczą. Wykorzystamy te czyhoszczury na naszą korzyść」.",
           "(Transcrição)\n(Capitão) – *Batidas* \"Wilkstrom, é urgente. Temos névoa, e não sabemos até que ponto a água subiu. Os mapas são inúteis. Precisamos…\"\n(Olof) – \"A tripulação está planejando um motim, Capitão. É hora de agir.\"\n(Capitão) – \"Um motim? Eles só estão tentando sobreviver… Você está louco?\"\n(Olof) – \"Eu te dei uma chance de viver. Agora temos que nos proteger das massas. Usaremos os 'roedores' a nosso favor.\"",
           "（錄音）\n（船長） - *敲門* 「威克斯特羅姆，緊急情況。起霧了，我們不知道水位上升了多少。地圖完全沒有用。我們需要——」\n（奧諾夫） - 「船員們正在密謀叛變，船長。現在該採取行動了。」\n（船長） - 「叛變？他們只是想活下去，我——你瘋了嗎？」\n（奧諾夫） - 「我給了你一個活下去的機會。現在我們要利用'潛伏者'，保護自己不受烏合之衆的影響。」",
-          "(書き起こし)\n(船長) - *コンコン*  「緊急事態だウィルクストーム。霧が出ている。波の高さが分からなくなった。地図も役に立たない。なんとかしなければ」\n(オロフ) - 「船員が反亂を企てている。船長、今こそ行動を起こす時だ」\n(船長) - 「は、反亂？みな必死に生き延びようとしているだけじゃないか。あんた、どうかしてるよ」\n(オロフ) - 「君に生き延びるチャンスをやったんだ。今は、大衆から自分自身を守らなければならない。『ラーカー’をうまく利用しようじゃないか」",
+          "(書き起こし)\n(船長) - *コンコン*  「緊急事態だウィルクストーム。霧が出ている。波の高さが分からなくなった。地図も役に立たない。なんとかしなければ」\n(オロフ) - 「船員が反亂を企てている。船長、今こそ行動を起こす時だ」\n(船長) - 「は、反亂？みな必死に生き延びようとしているだけじゃないか。あんた、どうかしてるよ」\n(オロフ) - 「君に生き延びるチャンスをやったんだ。今は、大衆から自分自身を守らなければならない。『ラーカー』をうまく利用しようじゃないか」",
           "(녹취록)\n(선장) - 똑똑똑. \"윌크스트롬, 급한 일이야. 안개가 꼈어. 물이 얼마나 올라갔는지 알 수가 없어. 지도는 무용지물이야. 지금 바로-\"\n(올로프) - \"선원들이 반란을 계획하고 있네, 선장. 움직일 시간이야.\"\n(선장) - \"반란? 선원들은 그저 살아남으려고 하는 겁니다. 정신 나간 거 아닙니까?\"\n(올로프) - \"난 네가 살아남을 기회를 준 거야. 이제 우리는 스스로 살아남아야 해. '은둔자'들을 이용해 보자고.\"",
           "(Расшифровка записи)\n(Капитан) – *Стучится* «Вилкстром, это срочно. Туман сгустился. Мы не знаем, насколько поднялась вода. От карт нет толку. Мы должны…»\n(Улоф) – «Капитан, экипаж замышляет бунт. Время действовать».\n(Капитан) – «Бунт? Они просто пытаются выжить, я… Вы в своем уме?»\n(Улоф) – «Я дал вам шанс выжить. Теперь мы должны защитить себя от масс. Для этого мы используем паразитов»."
         ],
@@ -30246,7 +30246,7 @@
         "Term": "Story/CaravanIsland/DettosJournal5",
         "TermType": 0,
         "Languages": [
-          "DETTO'S SCIENTIFIC JOURNAL -MONSTER INVESTIGATION-\n\nThere’s a stranger in town called Olof something. Pa keeps going to his meetings, no kids allowed. But at night I got Sanjay to help me sneak onto the stranger’s ship. I thought maybe he had some medicine for Ma…\n\nBut Olof’s boat was just filled with cages. In the cages were big rats, and a… very large hyena. They were so angry! Sanjay found notes talking about feeding and training them into his personal 『army’. Sanjay thinks Olof might be a bad guy.\n\nI think I agree.",
+          "DETTO'S SCIENTIFIC JOURNAL -MONSTER INVESTIGATION-\n\nThere’s a stranger in town called Olof something. Pa keeps going to his meetings, no kids allowed. But at night I got Sanjay to help me sneak onto the stranger’s ship. I thought maybe he had some medicine for Ma…\n\nBut Olof’s boat was just filled with cages. In the cages were big rats, and a… very large hyena. They were so angry! Sanjay found notes talking about feeding and training them into his personal ‘army’. Sanjay thinks Olof might be a bad guy.\n\nI think I agree.",
           "DETTOS VETENSKAPSDAGBOK – MONSTERUTREDNING\n\nDet är en främling på besök i stan. Olof nånting. Pappa går på hans möten, men barn är inte tillåtna. En natt övertalade jag Sanjay att hjälpa mig smyga ombord på främlingens skepp. Jag tänkte att han kanske hade medicin till mamma…\n\nMen Olofs båt var full av burar. I burarna fanns stora råttor och en… väldigt stor hyena. De var så arga! Sanjay hittade anteckningar om hur de matas och tränas till hans personliga 」armé」. Sanjay tror att Olof är ond.\n\nJag håller nog med.",
           "JOURNAL SCIENTIFIQUE DE DETTO - ENQUÊTE SUR DES MONSTRES\n\nIl y a un nouveau en ville, un certain Olof Machin-Truc. Papa va à toutes ses réunions, mais les enfants ne sont pas invités. J'ai convaincu Sanjay de m'aider à infiltrer son bateau pendant la nuit. Je pensais qu'il aurait peut-être des médicaments pour maman...\n\nSon bateau est plein de cages. Dans les cages, il y a de gros rats et une hyène énorme. Ils étaient vraiment énervés ! Sanjay a trouvé des notes sur comment les nourrir et les entraîner à devenir une « armée ». Sanjay pense qu'Olof n'est pas quelqu'un de bien.\n\nJe crois que je suis d'accord.",
           "DIARIO SCIENTIFICO DI DETTO -INVESTIGAZIONE MOSTRUOSA-\n\nC’è uno sconosciuto in città che si fa chiamare 「Olof qualcosa」. Pa’ lo incontra di continuo, ma i bambini non sono ammessi a queste riunioni. Però di notte Sanjay mi aiuta a intrufolarmi a bordo della sua nave. Credevo di trovare qualche medicina per ma’...\n\nInvece c’erano solo gabbie con dentro dei topi di dimensioni spropositate e... un’enorme iena. Erano così rabbiosi! Sanjay ha trovato delle note in cui si menziona di volerli usare per un 「esercito」 personale. E crede che Olof sia un tipo losco.\n\nCredo di essere d’accordo con lui.",
@@ -30485,7 +30485,7 @@
           "El capitán Tulley nos ha ordenado que pongamos los motores a pleno rendimiento. Tenemos que sobrepasar a una flota de balsas, o algo así. Va a sobrecalentar el reactor. He mandado un mensaje a la torre, pero a Tulley le da absolutamente igual.\n\nEspero que a ti te vaya mejor, Hanne, muchísimo mejor.\n~Ruben",
           "Kapitan Tulley kazał nam nie oszczędzać silników. Próbujemy wyprzedzić flotę tratw, czy coś takiego. To doprowadzi do przegrzania reaktora. Wysłałem wiadomość na wieżę. Tulley się tym nie przejmuje.\n\nMam nadzieję, że jesteś w lepszej sytuacji ode mnie, Hanne. Dużo lepszej.\n~Ruben",
           "O Capitão Tulley ordenou que forçássemos os motores ao limite. Estamos tentando fugir de uma frota de jangadas, ou algo assim. O reator vai superaquecer. Enviei uma mensagem para a torre. Tulley não se importa.\n\nEspero que você esteja se saindo melhor, Hanne. Muito melhor.\n~Ruben",
-          "圖利船長命令我們把發動機推到極限。我們想超過一支木筏小隊。這樣做會讓反應堆過熱。我給塔上發了一條資訊，但圖利並不關心。\n\n漢妮，我希望你的情況比這裡好，好得多。\n~魯本",
+          "圖利船長命令我們把發動機推到極限。我們想超過一支木筏小隊。這樣做會讓反應爐過熱。我給塔上發了一條資訊，但圖利並不關心。\n\n漢妮，我希望你的情況比這裡好，好得多。\n~魯本",
           "タリー船長は、エンジンを限界まで回すよう我々に命じた。我々はいかだの船団から逃れようとしているのだ。リアクターがオーバーヒートしそうだ。私はタワーにメッセージを送った。タリーは気に留めなかった。\n\nハンネ、元気しているか？うまくやっていけてると祈ってる。\nルーベン",
           "툴리 선장이 엔진을 한계까지 밀어붙이라고 명령했다. 뗏목들보다 빠르게 가기 위한 거라나 뭐라나. 원자로가 과열될 것이다. 탑으로 메시지를 보냈다. 툴리는 무관심하다.\n\n넌 잘 지내고 있길 바란다, 한네. 훨씬 더.\n~루벤",
           "Капитан Тулли приказал гнать на пределе двигателей. Мы пытаемся обогнать флотилию плотов или что-то в этом роде. Реактор перегреется. Я сообщил в башню, но Тулли плевать.\n\nНадеюсь, Ханне, у тебя дела получше. Значительно получше.\n~Рубен"
@@ -30518,7 +30518,7 @@
           "Los motores están hechos un desastre, los de arriba están muy disgustados con el tema del racionamiento extremo y, encima, ahora estamos a merced de las mareas.\n\nPara más inri, la flota que teníamos que sobrepasar está cada vez más cerca. Voy a sellar el reactor, me da igual lo que diga el capitán Tulley.\n\nMe vendría de perlas que estuvieras aquí, Hanne.\n~Ruben",
           "Silniki wyzionęły ducha. Ludzie na górze i tak są już podenerwowani z powodu głodowych racji. Teraz jesteśmy zdani na łaskę i niełaskę fal.\n\nA te tratwy na horyzoncie zbliżają się z każdą godziną. Zamykam reaktor. Nie obchodzi mnie, co mówi kapitan Tulley.\n\nNaprawdę chciałbym, żebyś tu była, Hanne.\n~Ruben",
           "Os motores pifaram. As pessoas lá em cima já estão irritadas com o racionamento radical. Agora estamos à mercê das ondas.\n\nE aquelas jangadas no horizonte estão cada vez mais perto. Estou lacrando o reator agora. Eu não me importo com o que o Capitão Tulley diz.\n\nEu preciso muito de você aqui, Hanne.\n~Ruben",
-          "發動機罷工了。樓上的人對極端定量配給早已心懷不滿。現在我們只能任由海浪擺佈了。\n\n海平線上的那些木筏時刻都在靠近。不管圖利船長說什麼，我都要把反應堆封起來。\n\n我真該來找你幫忙，漢妮。\n~魯本",
+          "發動機罷工了。樓上的人對極端定量配給早已心懷不滿。現在我們只能任由海浪擺佈了。\n\n海平線上的那些木筏時刻都在靠近。不管圖利船長說什麼，我都要把反應爐封起來。\n\n我真該來找你幫忙，漢妮。\n~魯本",
           "エンジンがダメになった。上の階の人たちは、極端な配給にすでに怒り心頭の様子だ。今は波に翻弄されるがままだ。\n\nそして水平線に見えているいかだたちは刻一刻と近づいてきている。今、私はリアクターを封鎖している。タリー船長が何を言っても聞くつもりはない。\n\nハンネ、こんな時に君が居てくれたら…。\n",
           "엔진은 끝났다. 위층 사람들은 극단적인 배급 상황에 분노를 표출하고 있다. 우리의 운명은 파도에 달려있다.\n\n수평선에 보이는 뗏목들이 점차 가까워지고 있다. 나는 지금 원자로를 봉인하고 있다. 툴리 선장이 뭐라고 하든 상관없다.\n\n한네, 네가 있었다면 큰 도움이 됐을 텐데.\n~루벤",
           "Двигатели всё. Люди наверху уже возмущены ничтожными пайками. Теперь мы во власти волн.\n\nПлоты на горизонте приближаются с каждым часом. Я запечатываю реактор. Капитан пусть говорит что хочет.\n\nС тобой, Ханне, мне было бы намного проще.\n~Рубен"
@@ -30576,7 +30576,7 @@
         "Term": "Story/Tangaroa/Ruben4",
         "TermType": 0,
         "Languages": [
-          "Things have gone quiet. Security teams still go on patrols in their ridiculous golf carts trying to keep some semblance of order. I heard the rafters let loose some type of rat. Oh, and they strapped tasers on all the butler bots! It’s like some kind of dumb guerilla war upstairs.\n\nWe’re fixing up a boat, but there’s no engine. The raft-kid thinks we could take one of the golf cart engines. It’s not a bad idea.\n\nCaptain Tulley and the 『investors’ are still up in the tower. I say leave them there to rot.\n~Ruben",
+          "Things have gone quiet. Security teams still go on patrols in their ridiculous golf carts trying to keep some semblance of order. I heard the rafters let loose some type of rat. Oh, and they strapped tasers on all the butler bots! It’s like some kind of dumb guerilla war upstairs.\n\nWe’re fixing up a boat, but there’s no engine. The raft-kid thinks we could take one of the golf cart engines. It’s not a bad idea.\n\nCaptain Tulley and the ‘investors’ are still up in the tower. I say leave them there to rot.\n~Ruben",
           "Det har tystnat. Vakterna patrullerar i sina fåniga golfbilar för att försöka ge sken av ordning. Jag hörde att flottåkarna släppte ut nån sorts råtta. Jo, och så har de satt elchockpistoler på alla tjänarrobotar! Det är som ett dumt gerillakrig där uppe.\n\nVi lagar en båt, men den har ingen motor. Flottpojken tror att vi kan ta en av golfbilarnas motorer. Det är ingen dum idé.\n\nKapten Tulley och 」investerarna」 är kvar uppe i tornet. De kan stanna där och ruttna.\n~Ruben",
           "Les coups de feu ont cessé. Les équipes de sécurité patrouillent toujours dans leurs voiturettes de golf ridicules pour faire régner un semblant d'ordre. Il paraît que les gens des radeaux nous ont envoyé des rats. Oh, et ils ont collé des tasers sur nos robots de service ! C'est une vraie guérilla à l'étage. Quelle idiotie.\n\nOn essaie de réparer un bateau qui n'a plus de moteur. Le gosse du radeau pense qu'on pourrait utiliser ceux des voiturettes de golf. Ce n'est pas une mauvaise idée.\n\nLe capitaine Tulley et les « investisseurs » sont toujours dans leur satanée tour. Qu'ils y pourrissent.\n~Ruben",
           "La situazione sembra essersi calmata. Le squadre di sicurezza continuano a pattugliare con i loro ridicoli golf cart cercando di mantenere una parvenza di ordine. Ho sentito dire che gli zatteristi hanno liberato delle specie di ratti. Oh, e hanno legato dei taser a tutti i maggiorbot! Sembra che di sopra sia in corso una stupida guerriglia.\n\nStiamo sistemando una barca, ma manca il motore. Il ragazzino della zattera dice di usare il motore di uno dei golf cart. Non è una cattiva idea.\n\nIl Capitano Tulley e gli 「investitori」 sono ancora nella torre. Io dico di lasciarli lì a marcire.\n~Ruben",
@@ -30684,7 +30684,7 @@
           "(Transkrypcja)\n(Ochrona) – „Nie, kapitanie, nie zachowują się agresywnie. Tak, wciąż tylko śpiewają」.\n(Kapitan Tulley) *stłumiona odpowiedź*\n(Ochrona) – „Tak, jestem uzbrojony. Ale jeśli wolno mi zauważyć, możemy użyć armatek wodnych w razie…」\n(Kapitan Tulley) *stłumiony rozkaz*\n(Ochrona) – „Tak jest. Nie, kapitanie」. \n(Radio zostaje wyłączone, a głos funkcjonariusza ochrony drży).\n(Ochrona) – „Tulley każe strzelać tak, żeby ranić…?」",
           "(Transcrição)\n(Segurança) – \"Não senhor, eles não fizeram nada hostil. Sim, eles ainda estão cantando.\"\n(Capitão Tulley) – *Resposta abafada.*\n(Segurança) – \"Sim senhor, estou armado. Mas se me permite dizer, podemos usar os canhões de água se…\"\n(Capitão Tulley) – *Ordem abafada.*\n(Segurança) – \"Sim, senhor. Não, senhor.\" \n(A estática do rádio é desligada quando a voz do oficial de segurança treme.)\n(Segurança) – \"Tulley disse pra atirar pra machucar…?」",
           "（錄音）\n（保安）-「不，長官，他們沒有任何惡意行為。是的，他們只是在唱聖歌。」\n（圖利船長）- *聲音模糊不清*\n（保安）-「是，長官，我有武器。但是請恕我直言，我們無法使用水炮，除非——」\n（圖利船長）- *模糊不清的命令*\n（保安）-「是，長官。不，長官。」\n（保安人員聲音顫抖，無線電隨之關閉）\n（保安）-「圖利說，打傷他們……？」",
-          "(書き起こし)\n(警備) - 「ノー、サー。彼らは敵対的なことはしていません。彼らはただ意見を言っているだけです」\n(タリー船長) - *返事は聞き取れない*\n(警備) - 「イエッサー。私は武裝しています。ぶしつけな発言をお許しください。もしかしたら放水砲を使えるのではないかと…」\n(タリー船長) -  *返事は聞き取れない*\n(警備) -　「イエッサーノー、サー」\n(警備の聲が震えるにつれ、無線のノイズが消えた)\n(警備) - 「タリー船長が『撃て’と言った？」",
+          "(書き起こし)\n(警備) - 「ノー、サー。彼らは敵対的なことはしていません。彼らはただ意見を言っているだけです」\n(タリー船長) - *返事は聞き取れない*\n(警備) - 「イエッサー。私は武裝しています。ぶしつけな発言をお許しください。もしかしたら放水砲を使えるのではないかと…」\n(タリー船長) -  *返事は聞き取れない*\n(警備) -　「イエッサーノー、サー」\n(警備の聲が震えるにつれ、無線のノイズが消えた)\n(警備) - 「タリー船長が『撃て』と言った？」",
           "(녹취록)\n(경비) - \"아닙니다. 적대적인 행동은 하지 않았습니다. 네, 그냥 노래만 계속 부르고 있습니다.\"\n(툴리 선장) - *웅얼거리는 소리.*\n(경비) - \"네, 전 현재 무장 상태입니다. 하지만 솔직히 말씀드리자면, 물대포를 쏠 수도-\"\n(툴리 선장) - *웅얼거리는 명령.*\n(경비) - \"아닙니다. 알겠습니다.\"\n(경비원의 목소리가 흔들리면서 라디오의 잡음이 사라진다.)\n(경비) - \"툴리가 죽지 않을 정도로 사격하라고 한다...?\"",
           "(Запись разговора)\n(Охранник) – «Нет, сэр, враждебно они себя не ведут. Да, по-прежнему просто скандируют».\n(Капитан Тулли) – *Неразборчивый ответ*\n(Охранник) – «Да, сэр, я вооружен. Но если позволите, можно попробовать водяными пушками, если…»\n(Капитан Тулли) – *Неразборчивый приказ*\n(Охранник) – «Да, сэр. Нет, сэр».\n(Радиопомехи стихают. Голос охранника дрожит)\n(Охранник) – «Тулли сказал стрелять, но не на поражение…»"
         ],
@@ -30873,7 +30873,7 @@
         "Term": "Story/Varuna/Grabber5",
         "TermType": 0,
         "Languages": [
-          "A man talking to dolls arrived yesterday. I found his loud discussions entertaining. Maybe I miss company a bit too.\n\nThe man climbed high up into the crane with a satellite dish. He called out on his little radio for 『Astrid’. It looked… unsuccessful.\n\nI might have… stolen one of his dolls. 『Miranda’ is her name. The man left an hour ago, after freaking out all day over it! Ha! So many strange people these days.\n~The Grabber",
+          "A man talking to dolls arrived yesterday. I found his loud discussions entertaining. Maybe I miss company a bit too.\n\nThe man climbed high up into the crane with a satellite dish. He called out on his little radio for ‘Astrid’. It looked… unsuccessful.\n\nI might have… stolen one of his dolls. ‘Miranda’ is her name. The man left an hour ago, after freaking out all day over it! Ha! So many strange people these days.\n~The Grabber",
           "Igår kom en man som pratade med dockor. Det var underhållande att lyssna på hans högljudda diskussioner. Måhända att jag saknar sällskap.\n\nHan klättrade högt upp i kranen med parabolantennen. Han använde sin lilla radio för att anropa en 」Astrid」. Det verkade inte funka.\n\nJag kan ha… stulit en av hans dockor. 」Miranda」 heter den. Mannen gav sig av för en timme sen, efter att ha letat hela dagen! Ha! Så många konstiga typer nu för tiden.\n~Norparn",
           "Nouvel arrivant hier : un homme qui parle à des poupées. Ses débats étaient divertissants. Je me sens peut-être un peu seul, moi aussi.\n\nL'homme a escaladé la grue avec une antenne. Il essayait de joindre quelqu'un du nom d'Astrid sur sa petite radio. Ça n'avait pas l'air de marcher.\n\nJ'ai... volé une de ses poupées. « Miranda », elle s'appelle. L'homme est parti il y a une heure, après l'avoir cherchée partout. Ha ! Les gens sont vraiment bizarres...\n~Le Chapardeur",
           "Ieri è arrivato un tizio che parla con le bambole. Ho trovato affascinanti le sue discussioni ad alta voce. Forse anch’io mi sento un po’ solo.\n\nÈ salito in cima alla gru con un’antenna parabolica e ha chiamato una certa 「Astrid」 con la sua radiolina. Non credo abbia funzionato.\n\nPotrei aver... preso in prestito una delle sue bambole. Quella di nome 「Miranda」, nello specifico. Se n’è andato un’ora fa, dopo aver dato in escandescenze tutto il giorno! Ah! Quanta gente strampalata ultimamente!\n~Il prestigiatore",
@@ -30906,7 +30906,7 @@
         "Term": "Story/Varuna/Grabber6",
         "TermType": 0,
         "Languages": [
-          "I would be bored these days, if the 『motherlode’ wasn’t on the forefront of my mind. The water stole it from me. I should’ve acted sooner. \n\nNow there’s trouble in the way. It’s risky to deal with, but it might be worth it. The thought gnaws at me.\n\nBut it’s just one shark. How hard could it be?\n~The Grabber",
+          "I would be bored these days, if the ‘motherlode’ wasn’t on the forefront of my mind. The water stole it from me. I should’ve acted sooner. \n\nNow there’s trouble in the way. It’s risky to deal with, but it might be worth it. The thought gnaws at me.\n\nBut it’s just one shark. How hard could it be?\n~The Grabber",
           "Jag hade nog varit uttråkad nu om det inte vore för att jag bara kan tänka på min skatt. Vattnet stal den från mig. Jag borde ha gjort nåt tidigare.\n\nNu står jag inför ett dilemma. Det är riskabelt, men kanske värt det. Tanken äter upp mig.\n\nDet är bara en haj. Hur svårt kan det vara?\n~Norparn",
           "Je pourrais presque m'ennuyer, ces jours-ci, mais j'ai un gros souci avec ma cache principale. Les vagues me l'ont volée. J'aurais dû être plus prévoyant. \n\nEt maintenant, mon butin est bien gardé... Hmm, c'est risqué, mais ça vaudrait le coup, non ? Ça me travaille...\n\nAprès tout, il n'y a qu'un seul requin. Ça ne devrait pas être si difficile.\n~Le Chapardeur",
           "Direi quasi che mi sto annoiando in questi giorni, se non fosse che il 「deposito」 è al centro dei miei pensieri. L’acqua me l’ha portato via. Avrei dovuto agire immediatamente.\n\nOra è un bel dilemma: è rischioso, ma allo stesso tempo potrebbe valerne la pena. Il pensiero mi tormenta.\n\nMa in fondo è solo uno squalo. Quanto potrà mai essere difficile?\n~Il prestigiatore",
@@ -31104,7 +31104,7 @@
         "Term": "Story/Temperance/Sparrow1",
         "TermType": 0,
         "Languages": [
-          "I am called Sparrow. Whoever finds this, know that I held humanity’s interest first. Always.\n\nI was sent to Selene alongside two colleagues. One of which I discovered was a mole by the 『investors’. Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with.\n\nThe other colleague… I left behind. I did not trust you, Cuckoo. I couldn’t. It was too much of a risk. I hope you will forgive me.\n~Sparrow",
+          "I am called Sparrow. Whoever finds this, know that I held humanity’s interest first. Always.\n\nI was sent to Selene alongside two colleagues. One of which I discovered was a mole by the ‘investors’. Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with.\n\nThe other colleague… I left behind. I did not trust you, Cuckoo. I couldn’t. It was too much of a risk. I hope you will forgive me.\n~Sparrow",
           "Jag kallas Sparven. Den som finner det här ska veta att jag alltid satte mänsklighetens intressen först. Alltid.\n\nJag skickades till Selene med två kollegor. En som jag senare fick reda på var en mullvad planterad av 」investerarna」. Om Ugglan fått komma till Selene hade kunskapen om den här obegränsade gröna energin monopoliserats av samma människor som satte oss i den här knipan från första början.\n\nDen andra kollegan… lämnade jag. Jag litade inte på dig, Göken. Jag kunde inte. Risken var för stor. Jag hoppas du kan förlåta mig.\n~Sparven",
           "On m'appelle Sparrow. Si vous me lisez, sachez que j'agis pour l'intérêt de l'humanité. Toujours.\n\nJ'ai été envoyée à Sélène avec deux collègues. J'ai découvert que l'un de ces collègues était une taupe au service des « investisseurs ». Si j'avais laissé Owl atteindre Sélène, j'aurais mis une source infinie d'énergie verte entre les mains des personnes qui sont à l'origine même de tout ce chaos.\n\nMon autre collègue... Je l'ai abandonné. Je ne te faisais pas confiance, Cuckoo. Je ne pouvais pas. C'était trop risqué. J'espère que tu sauras me pardonner.\n~Sparrow",
           "Mi chiamano 「la Gazza」. Se stai leggendo questo documento, sappi che ho sempre agito mettendo l’interesse dell’umanità al primo posto. Sempre.\n\nMi hanno inviato a Selene insieme a due colleghi, uno dei quali ho scoperto essere una talpa degli 「investitori. Se il Gufo fosse venuto a Selene, le conoscenze di questa energia verde illimitata sarebbero state monopolizzate dalle stesse persone che ci hanno portato alla catastrofe.\n\nL’altro collega... L’ho semplicemente abbandonato. Non mi fidavo di te, Cuculo. Non potevo. Avevo troppo da perdere. Spero tu possa perdonarmi.\n~Gazza",
@@ -31137,7 +31137,7 @@
         "Term": "Story/Temperance/Sparrow2",
         "TermType": 0,
         "Languages": [
-          "The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities. No easy task. But it has been done. In theory. Yet we do not have the people to construct anything but a basic prototype. It can be built for real, I know it! We just need more people.\n\nThere’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. One of the 『investors’ has taken control of the community. Olof Wilkstrom. I fear his intentions with this potential Utopia.\n~Sparrow",
+          "The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities. No easy task. But it has been done. In theory. Yet we do not have the people to construct anything but a basic prototype. It can be built for real, I know it! We just need more people.\n\nThere’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. One of the ‘investors’ has taken control of the community. Olof Wilkstrom. I fear his intentions with this potential Utopia.\n~Sparrow",
           "Anläggningen i Selene byggdes med ett enda syfte: för att bemästra och fullända de experimentella reaktorerna som används för att driva de flytande städerna. Inte lätt. Men det går. I teorin. Trots det är vi så underbemannade att vi bara kan bygga enkla prototyper. Men det går, det vet jag! Vi behöver bara mer folk.\n\nDet finns en plats där flottåkarna lever i fred med överlevande från den gamla världen. Den kallas Utopin. Där kanske vi kan börja reparera skadorna vi gjort. Men vi fick ett meddelande från dem igår. En av 」investerarna」 har tagit över samhället. Olof Wilkström. Jag oroar mig för hans intentioner med den potentiella utopin.\n~Sparven",
           "L'objectif du complexe de Sélène était de perfectionner des réacteurs expérimentaux pour approvisionner les villes flottantes en énergie. Ce n'était pas gagné, mais c'est fait, du moins en théorie. Cependant, avec nos effectifs, nous ne pouvons construire qu'un prototype basique. Pourtant, c'est possible, je le sais ! Il nous faut juste des renforts.\n\nIl existe un endroit où les gens des radeaux et les survivants de l'ancien monde vivent en harmonie. Utopia. Peut-être y trouverions-nous un moyen de réparer nos erreurs. Hier, nous avons capté l'un de leurs messages. Un « investisseur » a pris le contrôle de la communauté. Olof Wilkstrom. Je crains que ses intentions pour Utopia ne soient pas bonnes.\n~Sparrow",
           "La struttura di Selene è stata costruita con un unico scopo: comprendere a fondo e perfezionare i reattori sperimentali utilizzati per alimentare le città galleggianti. Un obiettivo tutt’altro che semplice. Eppure è stato raggiunto. In teoria. Non disponiamo ancora delle persone per costruire qualcosa che non sia un basilare prototipo. È fattibile, ne sono certa! Ci servono solo più persone.\n\nC’è un luogo in cui gli zatteristi convivono pacificamente con i superstiti del vecchio mondo. Lo chiamano 「Utopia」. Forse lì potremmo iniziare a rimediare al danno che abbiamo fatto. Anche se ieri abbiamo ricevuto un messaggio da uno di loro. Uno dei cosiddetti 「investitori」, tale Olof Wilkstrom, ha preso il controllo della comunità. Non promette niente di buono.\n~Gazza",
@@ -31145,7 +31145,7 @@
           "Las instalaciones Selene fueron construidas con un objetivo: dominar y perfeccionar los reactores utilizados para dar energía a las ciudades flotantes. No era nada fácil, pero, en teoría, era necesario. Solo tenemos personas para construir un prototipo. Puede construirse de verdad, ¡lo sé! Solo nos hace falta más gente.\n\nHay un lugar en el que todos los balseros viven en paz con otros supervivientes del viejo mundo. Lo llaman Utopía. Quizá allí podamos empezar a arreglar todo el daño que hemos hecho. Pero ayer recibí un mensaje suyo. Uno de esos «inversores» ha tomado el control de toda la comunidad. Es Olof Wilkstrom. Temo cuáles puedan ser sus intenciones con esta posible Utopía.\n~ Gorrión",
           "Placówka Selene została zbudowana w jednym celu: udoskonalenia eksperymentalnych reaktorów służących do zasilania pływających miast. Niełatwe zadanie. Ale udało się je wykonać. W teorii. Nie mamy jednak ludzi, którzy mogliby skonstruować coś więcej niż podstawowy prototyp. To naprawdę da się zbudować, wiem o tym! Potrzebujemy tylko więcej ludzi.\n\nJest miejsce, gdzie tratwiarze żyją w zgodzie ze wszystkimi ocalałymi ze starego świata. Nazywają je Utopią. Może tam zaczniemy naprawiać szkody, które wyrządziliśmy. Ale wczoraj otrzymaliśmy od nich wiadomość. Jeden z „inwestorów」 przejął kontrolę nad społecznością. Olof Wilkstrom. Obawiam się jego zamiarów wobec tej potencjalnej Utopii.\n~Wróbel",
           "A instalação de Selene foi construída com um propósito: dominar e aperfeiçoar os reatores experimentais usados para alimentar as cidades flutuantes. Uma tarefa muito difícil. Mas isso já foi feito, pelo menos em teoria. No entanto, não temos pessoas para construir nada além de um protótipo básico. Mas podemos construir um de verdade, eu sei! Só precisamos de mais pessoas.\n\nHá um lugar onde os jangadeiros vivem em paz com sobreviventes do velho mundo. Eles chamam esse lugar de \"Utopia\". Talvez lá possamos começar a reverter o estrago que causamos. Mas ontem recebemos uma mensagem deles. Um dos \"investidores\" assumiu o controle da comunidade. Olof Wilkstrom. Eu tenho medo das intenções dele em relação a esse refúgio.\n~Pardal",
-          "在塞勒涅建造的設施只有一個目的：掌握並完善為飄浮城市提供動力的實驗反應堆。這是一項艱巨的任務，但已經完成了。在理論上。不過我們找不到人去建造，只有一個初步的原型。我知道，它真的可以被造出來！我們只是需要更多的人手。\n\n在某個地方，飄流者與舊世界的倖存者和平共處。他們稱它為烏托邦。也許我們可以在那裡彌補我們造成的損害。但是我們昨天得到了他們的訊息。一個「投資者」已經控制了那裡。奧諾夫·威克斯特羅姆。我擔心他要對這個潛在的烏托邦圖謀不軌。\n~麻雀",
+          "在塞勒涅建造的設施只有一個目的：掌握並完善為飄浮城市提供動力的實驗反應爐。這是一項艱巨的任務，但已經完成了。在理論上。不過我們找不到人去建造，只有一個初步的原型。我知道，它真的可以被造出來！我們只是需要更多的人手。\n\n在某個地方，飄流者與舊世界的倖存者和平共處。他們稱它為烏托邦。也許我們可以在那裡彌補我們造成的損害。但是我們昨天得到了他們的訊息。一個「投資者」已經控制了那裡。奧諾夫·威克斯特羅姆。我擔心他要對這個潛在的烏托邦圖謀不軌。\n~麻雀",
           "セレネの施設は、ある一つの目的のためだけに設立された。浮遊都市に電力を供給するための実験的なリアクターを制御し、完成させるというものだ。簡単な仕事ではない。しかしうまくいきそうである。理論上の話ではあるが。まだ基本形となるプロトタイプを作るための人員しかいない。建設はきっと実現する！間違いない！今はもっと人手が必要だ。\n\n舊世界の生存者と共にラフターが平和に暮らせる場所がある。みなはそこをユートピアと呼ぶそこならば私たちが與えてしまった損害を元に戻せるかもしれない。しかし、昨日彼らからのメッセージを受信した。「出資者たち」のうちの1人がコミュニティの指揮をとっているようだ。名はオロフ・ウィルクストーム。ユートピアをも作りうるこの計畫、私は彼の意図が恐ろしい。\nスパロー",
           "셀레네 시설의 존재 이유는 단 하나: 수상도시의 동력을 공급할 실험 원자로를 완성하는 것. 쉬운 일은 아니다. 하지만 마무리되었다. 이론적으로는 말이다. 근데 기본 프로토타입 외에는 건설할 수 있는 사람들이 없다. 실제로 건설할 수 있다. 난 안다! 사람들이 더 필요할 뿐이다.\n\n구세계의 생존자들과 래프터들이 평화롭게 사는 곳이 있다. 유토피아라는 곳이다. 거기서 우리가 입힌 피해를 되돌릴 수도 있을 것이다. 하지만 어제 메시지를 받았다. '투자자' 중 한 명이 그곳을 장악했다고 한다. 올로프 윌크스트롬. 잠재성이 있는 유토피아에 대한 그의 의도가 두렵다.\n~참새",
           "«Селену» строили с одной целью: освоить и усовершенствовать экспериментальные реакторы, питающие плавучие города. Непростая задача. Но она выполнялась. В теории. Но проблема в том, что у нас не хватает людей, чтобы построить что-то, кроме базового прототипа. У нас бы получилось, я знаю! Просто нужно больше людей.\n\nЕсть одно место, где рафтеры мирно живут бок о бок с выжившими из старого мира. Оно называется Утопия. Может, там мы постепенно смогли бы исправить то, что натворили. Но вчера от них пришло сообщение. Один из «инвесторов» захватил власть в общине. Улоф Вилкстром. Боюсь представить, что он может сделать с нашей Утопией.\n~Синица"
@@ -31805,7 +31805,7 @@
           "El reactor de Selene puede que sea la única oportunidad que tenemos ante este océano infinito,",
           "Reaktor w Selene może być jedyną szansą, jaką mamy w walce z tym bezkresnym oceanem.",
           "O reator em Selene pode ser nossa única chance contra este oceano infinito.",
-          "塞勒涅的反應堆可能是我們對抗這無盡汪洋的唯一機會。",
+          "塞勒涅的反應爐可能是我們對抗這無盡汪洋的唯一機會。",
           "セレネのリアクターはこの終わりのない海に対する唯一の希望かもしれない。",
           "셀레네의 원자로만이 이 망망대해를 벗어날 마지막 기회일 것이다.",
           "Скорее всего, реактор на «Селене» – наш единственный шанс в этом бескрайнем океане."
@@ -31904,7 +31904,7 @@
           "Espero que consigas llegar a Selene. Espero que termines el reactor, por todos nosotros.",
           "Mam nadzieję, że uda ci się dotrzeć do Selene i dokończyć budowę reaktora. Dla dobra nas wszystkich.",
           "Espero que chegue em Selene. Espero que você termine o reator. Para o bem de todos nós.",
-          "我希望你能抵達塞勒涅。爲了我們大家著想，我希望你能摧毀反應堆。",
+          "我希望你能抵達塞勒涅。爲了我們大家著想，我希望你能摧毀反應爐。",
           "君がセレネにたどり著いていることを願う。そして君がリアクターを完成させていることを願う。私たち、そしてみんなのために。カッコー",
           "셀레네에 도착해서 원자로를 끝내버렸길 바란다. 우리 모두를 위해서 말이지.",
           "Надеюсь, ты доберешься до «Селены» и доделаешь реактор. За нас всех."
@@ -32065,7 +32065,7 @@
           "14 feb ~Sparvens anrop. I Selene?",
           "14 févr. ~Transmission de Sparrow. Depuis Sélène ?",
           "14 feb ~Una comunicazione della Gazza da Selene?",
-          "14. Feb. ~Spatz『 Komm. In Selene?",
+          "14. Feb. ~Spatz‘ Komm. In Selene?",
           "14 de febrero: Mensaje de Gorrión, ¿desde Selene?",
           "14 lutego ~Komunikat od Wróbla. Z Selene?",
           "Fev, 14 – Contato de Pardal em Selene?",
@@ -32919,7 +32919,7 @@
         "Term": "Story/Vasagatan/Voiceline/OlofsLog2_3",
         "TermType": 0,
         "Languages": [
-          "I promised them increased rations if they could bring me one of these ridiculous 『lurkers’ alive.",
+          "I promised them increased rations if they could bring me one of these ridiculous ‘lurkers’ alive.",
           "Jag har lovat dem större ransoner om de kan visa mig någon av de påstådda fripassagerarna vid liv.",
           "J'ai promis des rations supplémentaires à quiconque pourra capturer un de ces « rôdeurs » vivant.",
           "Gli ho promesso razioni extra nel caso in cui riescano a portarmi uno di questi 「roditori」 vivo.",
@@ -33021,10 +33021,10 @@
           "These ‘lurkers’ have potential.",
           "Fripassagerarna har potential.",
           "Ces « rôdeurs » ont du potentiel.",
-          "Questi “roditori” hanno del potenziale.",
-          "Diese „Schmarotzer“ haben Potenzial.",
+          "Questi 「roditori」 hanno del potenziale.",
+          "Diese „Schmarotzer「 haben Potenzial.",
           "Estas alimañas tienen potencial:",
-          "Te „czyhoszczury” mają potencjał.",
+          "Te „czyhoszczury」 mają potencjał.",
           "Esses \"roedores\" têm potencial.",
           "這些「潛伏者」很有潛力。",
           "「ラーカー」たちには可能性がある。",
@@ -33125,7 +33125,7 @@
           "Además, al mezclar su sangre, sus mutaciones aumentan, me pregunto si habrá otras especies que reaccionen igual.",
           "A mieszanie się ich krwi sprawia, że wzrasta liczba mutacji. Ciekawe, czy inny gatunek zareagowałby tak samo?",
           "Transfundir seu sangue fez com que as mutações aumentassem. Será que outra espécie reagiria da mesma forma?",
-          "透過分享它們的血液，突變數也增加了。不知道其他物種是否會有同樣的反應？",
+          "通過分享它們的血液，突變數也增加了。不知道其他物種是否會有同樣的反應？",
           "そして、血を分かち合うことで突然変異を増やすのだ。他の種族でも同様の反応を見せるのだろうか？",
           "녀석들의 피를 공유해서 돌연변이도 증가하고 있다. 다른 종에게도 똑같이 작용할지 궁금하다.",
           "Что любопытно, при кровосмешении их мутации усиливаются. Интересно, с другими видами будет так же?"
@@ -33216,13 +33216,13 @@
         "Term": "Story/Vasagatan/Voiceline/Recording1_1",
         "TermType": 0,
         "Languages": [
-          "(Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”",
-          "(Hanne) – ”Men vad betyder det? Du kan inte avskeda dem. Vi är mitt ute på havet!”",
+          "(Hanne) - 「But what does that mean? You can’t just fire them. We’re out at sea!」",
+          "(Hanne) – 」Men vad betyder det? Du kan inte avskeda dem. Vi är mitt ute på havet!」",
           "(Hanne) - « Mais qu'est-ce que vous racontez ? Vous ne pouvez pas les renvoyer, nous sommes en pleine mer ! »",
-          "(Hanne) - “Ma cosa significa? Non può licenziarli. Siamo in mare aperto!”",
-          "(Hanne) - „Aber was heißt das? Du kannst sie nicht einfach feuern. Wir sind auf hoher See!“",
+          "(Hanne) - 「Ma cosa significa? Non può licenziarli. Siamo in mare aperto!」",
+          "(Hanne) - „Aber was heißt das? Du kannst sie nicht einfach feuern. Wir sind auf hoher See!「",
           "(Transcripción)Hanne: ¿Qué significa eso? No puedes despedirlos así, ¡estamos en alta mar!",
-          "(Hanne) – „Ale co to znaczy? Jak chcesz ich zwolnić? Jesteśmy na pełnym morzu!”",
+          "(Hanne) – „Ale co to znaczy? Jak chcesz ich zwolnić? Jesteśmy na pełnym morzu!」",
           "(Hanne) – \"Mas o que isso quer dizer? Você não pode simplesmente demiti-los. Estamos no meio do mar!\"",
           "（漢妮） - 「這是什麼意思？你不能隨便解僱他們。我們在海上！」",
           "(ハンネ) - 「それってどういう意味？クビにすればいいってものじゃないでしょ。私たちは海の上にいるのよ！",
@@ -33249,13 +33249,13 @@
         "Term": "Story/Vasagatan/Voiceline/Recording1_2",
         "TermType": 0,
         "Languages": [
-          "(Olof) - “Hanne, you were brought to keep the engines running. That is what you-” ",
-          "(Olof) – Ditt jobb är att hålla motorerna vid liv. Det är det du…” ",
+          "(Olof) - 「Hanne, you were brought to keep the engines running. That is what you-」 ",
+          "(Olof) – Ditt jobb är att hålla motorerna vid liv. Det är det du…」 ",
           "(Olof) - « Vous êtes là pour vous occuper des moteurs, Hanne. Veuillez retourner à... » ",
-          "(Olof) - “Hanne, sei stata portata qui per tenere in funzione in motori. Ecco a cosa...” ",
-          "(Olof) - „Hanne, du wurdest geholt, um die Motoren am Laufen zu halten. Das ist es, was du-“ ",
+          "(Olof) - 「Hanne, sei stata portata qui per tenere in funzione in motori. Ecco a cosa...」 ",
+          "(Olof) - „Hanne, du wurdest geholt, um die Motoren am Laufen zu halten. Das ist es, was du-「 ",
           "Olof: Hanne, tu labor es mantener los motores en marcha. Para eso te... ",
-          "(Olof) – „Hanne, jesteś tu, żeby dbać o silniki. Po to cię tu…” ",
+          "(Olof) – „Hanne, jesteś tu, żeby dbać o silniki. Po to cię tu…」 ",
           "(Olof) – \"Hanne, você está aqui para manter os motores funcionando. Isso é o que você…\" ",
           "（奧諾夫） - 」漢妮，你是來確保發動機運轉的。這就是你——「 ",
           "(オロフ) - 「ハンネ、君はエンジンを動かし続けるためだけに連れてこられたんだ。君はただそれだけの存在だ」 ",
@@ -33315,13 +33315,13 @@
         "Term": "Story/Vasagatan/Voiceline/Recording1_4",
         "TermType": 0,
         "Languages": [
-          "(Hanne) - “That’s one of those damn rats! What… what are you doing to it?”",
-          "(Hanne) – ”En av de satans råttorna! Vad… vad gör du med den?”",
+          "(Hanne) - 「That’s one of those damn rats! What… what are you doing to it?」",
+          "(Hanne) – 」En av de satans råttorna! Vad… vad gör du med den?」",
           "(Hanne) - « Encore un de ces fichus rats ! À quoi jouez-vous avec eux ? »",
-          "(Hanne) - “È uno di quei maledetti topi! Cosa gli stai facendo?”",
-          "(Hanne) - „Das ist eine dieser verdammten Ratten! Was machst du damit?“",
+          "(Hanne) - 「È uno di quei maledetti topi! Cosa gli stai facendo?」",
+          "(Hanne) - „Das ist eine dieser verdammten Ratten! Was machst du damit?「",
           "Hanne: ¡Es una de esas puñeteras ratas! ¿Qué le estás haciendo?",
-          "(Hanne) – „To jeden z tych cholernych szczurów! Co ty mu robisz?”",
+          "(Hanne) – „To jeden z tych cholernych szczurów! Co ty mu robisz?」",
           "(Hanne) – \"É um daqueles malditos ratos! O que você está fazendo?\"",
           "（漢妮） - 「這是那群該死的老鼠中的一隻！你對它做了什麼？」",
           "ハンネ) - 「あの厄介なネズミだ！一體…コレに何をしたの？」",
@@ -33480,16 +33480,16 @@
         "Term": "Story/Vasagatan/Voiceline/Recording2_4",
         "TermType": 0,
         "Languages": [
-          "(Olof) - 「I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the 『lurkers’ to our advantage.」",
+          "(Olof) - 「I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.」",
           "(Olof) – 」Jag gav dig chansen att leva. Nu måste vi skydda oss från massorna. Vi ska dra nytta av fripassagerarna.」",
           "(Olof) - « Je vous ai sauvé la vie. Nous devons nous protéger de ces moins-que-rien. Nous utiliserons les \"rôdeurs\" à notre avantage. »",
-          "(Olof) - 「Vi ho dato la possibilità di sopravvivere. Ora dobbiamo proteggerci dalle masse. Useremo i 『roditori’ a nostro vantaggio.」",
-          "(Olof) – „Ich habe dir eine Chance gegeben zu leben. Jetzt müssen wir uns vor den Massen schützen. Wir werden die ‚Schmarotzer『 zu unserem Vorteil nutzen.「",
+          "(Olof) - 「Vi ho dato la possibilità di sopravvivere. Ora dobbiamo proteggerci dalle masse. Useremo i ‘roditori’ a nostro vantaggio.」",
+          "(Olof) – „Ich habe dir eine Chance gegeben zu leben. Jetzt müssen wir uns vor den Massen schützen. Wir werden die ‚Schmarotzer‘ zu unserem Vorteil nutzen.「",
           "Olof: Os di una oportunidad para seguir con vida, y ahora tenemos que protegernos de las masas. Va siendo hora de sacarles provecho a esas alimañas...",
           "(Olof) – „Dałem panu szansę na przeżycie. Teraz musimy się chronić przed tłuszczą. Wykorzystamy te czyhoszczury na naszą korzyść」.",
           "(Olof) – \"Eu te dei uma chance de viver. Agora temos que nos proteger das massas. Usaremos os 'roedores' a nosso favor.\"",
           "（奧諾夫） - 「我給了你一個活下去的機會。現在我們要利用'潛伏者'，保護自己不受烏合之衆的影響。」",
-          "(オロフ) - 「君に生き延びるチャンスをやったんだ。今は、大衆から自分自身を守らなければならない。『ラーカー’をうまく利用しようじゃないか」",
+          "(オロフ) - 「君に生き延びるチャンスをやったんだ。今は、大衆から自分自身を守らなければならない。『ラーカー』をうまく利用しようじゃないか」",
           "(올로프) - \"난 네가 살아남을 기회를 준 거야. 이제 우리는 스스로 살아남아야 해. '은둔자'들을 이용해 보자고.\"",
           "(Улоф) – «Я дал вам шанс выжить. Теперь мы должны защитить себя от масс. Для этого мы используем паразитов»."
         ],
@@ -35724,7 +35724,7 @@
         "Term": "Story/CaravanIsland/Voiceline/DettosJournal5_6",
         "TermType": 0,
         "Languages": [
-          "They were so angry! Sanjay found notes talking about feeding and training them into his personal 『army’.",
+          "They were so angry! Sanjay found notes talking about feeding and training them into his personal ‘army’.",
           "De var så arga! Sanjay hittade anteckningar om hur de matas och tränas till hans personliga 」armé」.",
           "Ils étaient vraiment énervés ! Sanjay a trouvé des notes sur comment les nourrir et les entraîner à devenir une « armée ».",
           "Erano così rabbiosi! Sanjay ha trovato delle note in cui si menziona di volerli usare per un 「esercito」 personale.",
@@ -36392,7 +36392,7 @@
           "Tenemos que sobrepasar a una flota de balsas, o algo así. Va a sobrecalentar el reactor.",
           "Próbujemy wyprzedzić flotę tratw, czy coś takiego. To doprowadzi do przegrzania reaktora.",
           "Estamos tentando fugir de uma frota de jangadas, ou algo assim. O reator vai superaquecer.",
-          "我們想超過一支木筏小隊。這樣做會讓反應堆過熱。",
+          "我們想超過一支木筏小隊。這樣做會讓反應爐過熱。",
           "我々はいかだの船団から逃れようとしているのだ。リアクターがオーバーヒートしそうだ。",
           "뗏목들보다 빠르게 가기 위한 거라나 뭐라나. 원자로가 과열될 것이다.",
           "Мы пытаемся обогнать флотилию плотов или что-то в этом роде. Реактор перегреется."
@@ -36590,7 +36590,7 @@
           "me da igual lo que diga el capitán Tulley. Me vendría de perlas que estuvieras aquí, Hanne.",
           "Nie obchodzi mnie, co mówi kapitan Tulley. Naprawdę chciałbym, żebyś tu była, Hanne.",
           "Eu não me importo com o que o Capitão Tulley diz. Eu preciso muito de você aqui, Hanne.",
-          "不管圖利船長說什麼，我現在都要把反應堆封起來。我真該來找你幫忙，漢妮。",
+          "不管圖利船長說什麼，我現在都要把反應爐封起來。我真該來找你幫忙，漢妮。",
           "タリー船長が何を言っても聞くつもりはない。ハンネ、こんな時に君が居てくれたら…。",
           "툴리 선장이 뭐라고 하든 상관없다. 한네, 네가 있었다면 큰 도움이 됐을 텐데.",
           "Капитан пусть говорит что хочет. С тобой, Ханне, мне было бы намного проще."
@@ -37614,7 +37614,7 @@
           "(Ochrona) – „Tulley każe strzelać tak, żeby ranić…?」",
           "(Segurança) – \"Tulley disse pra atirar pra machucar…?」",
           "（保安）-「圖利說，打傷他們……？」",
-          "(警備) - 「タリー船長が『撃て’と言った？」",
+          "(警備) - 「タリー船長が『撃て』と言った？」",
           "(경비) - \"툴리가 죽지 않을 정도로 사격하라고 한다...?\"",
           "(Охранник) – «Тулли сказал стрелять, но не на поражение…»"
         ],
@@ -38562,7 +38562,7 @@
         "Term": "Story/Varuna/Voiceline/Grabber5_3",
         "TermType": 0,
         "Languages": [
-          "He called out on his little radio for 『Astrid’. It looked… unsuccessful.",
+          "He called out on his little radio for ‘Astrid’. It looked… unsuccessful.",
           "Han använde sin lilla radio för att anropa en 」Astrid」. Det verkade inte funka.",
           "Il essayait de joindre quelqu'un du nom d'Astrid sur sa petite radio. Ça n'avait pas l'air de marcher.",
           "e ha chiamato una certa 「Astrid」 con la sua radiolina. Non credo abbia funzionato.",
@@ -38595,7 +38595,7 @@
         "Term": "Story/Varuna/Voiceline/Grabber5_4",
         "TermType": 0,
         "Languages": [
-          "I might have… stolen one of his dolls. 『Miranda’ is her name.",
+          "I might have… stolen one of his dolls. ‘Miranda’ is her name.",
           "Jag kan ha… stulit en av hans dockor. 」Miranda」 heter den.",
           "J'ai... volé une de ses poupées. « Miranda », elle s'appelle.",
           "Potrei aver... preso in prestito una delle sue bambole. Quella di nome 「Miranda」, nello specifico.",
@@ -38661,7 +38661,7 @@
         "Term": "Story/Varuna/Voiceline/Grabber6_1",
         "TermType": 0,
         "Languages": [
-          "I would be bored these days, if the 『motherlode’ wasn’t on the forefront of my mind.",
+          "I would be bored these days, if the ‘motherlode’ wasn’t on the forefront of my mind.",
           "Jag hade nog varit uttråkad nu om det inte vore för att jag bara kan tänka på min skatt.",
           "Je pourrais presque m'ennuyer, ces jours-ci, mais j'ai un gros souci avec ma cache principale.",
           "Direi quasi che mi sto annoiando in questi giorni, se non fosse che il 「deposito」 è al centro dei miei pensieri.",
@@ -39197,7 +39197,7 @@
           "Me pregunto qué habrá dentro...",
           "Ciekawe, co jest w środku…",
           "O que será que tem lá dentro…",
-          "不知道裡面有什麼……",
+          "不知道里面有什麼……",
           "一體中には何があるのだろう…",
           "안에 뭐가 있는지 궁금하다...",
           "Интересно, что там внутри?"
@@ -39684,7 +39684,7 @@
         "Term": "Story/Temperance/Voiceline/Sparrow1_3",
         "TermType": 0,
         "Languages": [
-          "One of which I discovered was a mole by the 『investors’.",
+          "One of which I discovered was a mole by the ‘investors’.",
           "En som jag senare fick reda på var en mullvad planterad av 」investerarna」.",
           "J'ai découvert que l'un d'entre eux était une taupe au service des « investisseurs ».",
           "uno dei quali ho scoperto essere una talpa degli 「investitori」.",
@@ -39824,7 +39824,7 @@
           "Las instalaciones Selene fueron construidas con un objetivo: dominar y perfeccionar los reactores utilizados para dar energía a las ciudades flotantes.",
           "Placówka Selene została zbudowana w jednym celu: udoskonalenia eksperymentalnych reaktorów służących do zasilania pływających miast.",
           "A instalação de Selene foi construída com um propósito: dominar e aperfeiçoar os reatores experimentais usados para alimentar as cidades flutuantes.",
-          "在塞勒涅建造的設施只有一個目的：掌握並完善為飄浮城市提供動力的實驗反應堆。",
+          "在塞勒涅建造的設施只有一個目的：掌握並完善為飄浮城市提供動力的實驗反應爐。",
           "セレネの施設は、ある一つの目的のためだけに設立された。浮遊都市に電力を供給するための実験的なリアクターを制御し、完成させるというものだ。",
           "셀레네 시설의 존재 이유는 단 하나: 수상도시의 동력을 공급할 실험 원자로를 완성하는 것.",
           "«Селену» строили с одной целью: освоить и усовершенствовать экспериментальные реакторы, питающие плавучие города."
@@ -40014,7 +40014,7 @@
         "Term": "Story/Temperance/Voiceline/Sparrow2_7",
         "TermType": 0,
         "Languages": [
-          "One of the 『investors’ has taken control of the community. Olof Wilkstrom.",
+          "One of the ‘investors’ has taken control of the community. Olof Wilkstrom.",
           "En av 」investerarna」 har tagit över samhället. Olof Wilkström.",
           "Un « investisseur » a pris le contrôle de la communauté. Olof Wilkstrom.",
           "Uno dei cosiddetti 「investitori」, tale Olof Wilkstrom, ha preso il controllo della comunità.",
@@ -40872,7 +40872,7 @@
         "Term": "Story/Utopia/Voiceline/Captives_3",
         "TermType": 0,
         "Languages": [
-          "He exploited us at every turn. Now all of us 『dissenters’ are locked up.",
+          "He exploited us at every turn. Now all of us ‘dissenters’ are locked up.",
           "Han utnyttjade oss hela tiden. Nu har han låst in alla oss 」oliktänkande」.",
           "Il nous a exploités jusqu'à la moelle. Maintenant, il a fait enfermer tous les « dissidents ».",
           "Ma non ha fatto altro che sfruttarci per i suoi scopi, e chiunque abbia osato dissentire è stato rinchiuso.",
@@ -41045,7 +41045,7 @@
           "¡Tengo mi propia balsa! Y está conectada a turbinas eólicas de verdad. ",
           "Mam swoją własną tratwę! I są podłączone prawdziwe turbiny wiatrowe! ",
           "Eu tenho minha própria jangada! E ela tem turbinas eólicas de verdade! ",
-          "我有自己的木筏了！而且它還連著真正的風力渦輪機！ ",
+          "我有自己的木筏了！而且它還連著真正的風力發電機！ ",
           "ぼくは自分のいかだを手に入れた！しかも、実際に風力発電機に繋がってる！ ",
           "나만의 뗏목이 생겼다! 진짜 풍력 발전기가 달려있다! ",
           "У меня свой плот! Да еще с настоящими воздушными турбинами! "
@@ -41136,7 +41136,7 @@
         "Term": "Story/Utopia/Voiceline/DettoRaft_5",
         "TermType": 0,
         "Languages": [
-          "His cages are already unloaded and now he’s promising to help everyone with his 『army’. ",
+          "His cages are already unloaded and now he’s promising to help everyone with his ‘army’. ",
           "Han har redan lastat av burarna och lovat att hjälpa alla med sin 」armé」. ",
           "Il a déjà déchargé ses cages et il promet d'aider tout le monde grâce à son « armée ». ",
           "Ha aperto le gabbie e ora promette di aiutare tutti con il suo 「esercito」. ",
@@ -41342,7 +41342,7 @@
           "Aunque persistieron, los exploradores de vanguardia emergieron de entre las ruinas, desafiaron nuestro mundo inundado y trajeron esperanza consigo.",
           "Mimo to przetrwali, a ze zgliszczy wyłonili się zwiadowcy, którzy stawili czoła naszemu zatopionemu światu i przywrócili nadzieję.",
           "No entanto, eles persistiram. Os Exploradores da Vanguarda se levantaram dos destroços, desafiaram nosso mundo inundado e trouxeram de volta a esperança.",
-          "但是他們堅持了下來，先鋒偵查團從殘骸中挺身而出，捍衛被洪水淹沒的世界，並帶回了希望。",
+          "但是他們堅持了下來，先遣偵查團從殘骸中挺身而出，捍衛被洪水淹沒的世界，並帶回了希望。",
           "しかし、生き殘った人々は粘り強く、前線偵察隊はがれきの中から立ち上がり、水沒した世界に抗い、希望を取り戻したのだ。",
           "하지만, 생존자들은 무릎을 굽히지 않았다. 잔해 속에서 전방 정찰병이 태어났고, 물로 가득 찬 세상에 맞섰으며, 희망을 되찾아왔다.",
           "Но они не сдались. Разведчики встали из руин, дерзнули исследовать наш затопленный мир и вернули нам надежду."
@@ -41441,7 +41441,7 @@
           "De ahora en adelante, todos somos exploradores de vanguardia, listos para descubrir cuál será el próximo paso de la humanidad.",
           "Od dziś wszyscy jesteśmy zwiadowcami, gotowymi odkryć kolejny krok dla ludzkości.",
           "A partir de hoje, somos todos Exploradores da Vanguarda, prontos para descobrir o próximo passo da humanidade.",
-          "從今天起，我們都是先鋒偵查團的一員，隨時準備為人類的未來探索下一步。",
+          "從今天起，我們都是先遣偵查團的一員，隨時準備為人類的未來探索下一步。",
           "本日より、我々全員は人類の次なる一歩を探求する「前線偵察隊」となる。",
           "오늘부터 우리 모두는 전방 정찰병이고, 인류의 발전에 이바지할 것이다.",
           "Отныне мы все становимся разведчиками, готовыми нащупать следующий шаг для человечества."
@@ -41507,7 +41507,7 @@
           "o los exploradores de vanguardia acabarán contigo.",
           "Jeśli tego nie zrobicie, będziecie ostatnimi ze zwiadowców.",
           "Ou os Exploradores da Vanguarda vão acabar com vocês.",
-          "否則先鋒偵查團將與你一同消失。",
+          "否則先遣偵查團將與你一同消失。",
           "さもなくば前線偵察隊は君らとともに幕を閉じるだろう。",
           "그렇지 않으면 전방 정찰병이 끝날 것이다.",
           "Иначе вы будете последними разведчиками в истории."
@@ -41738,7 +41738,7 @@
           "¡Bomba va!",
           "Granat!",
           "Granada!",
-          "扔手雷！",
+          "扔手榴彈！",
           "手りゅう弾、投てき！",
           "폭탄 받아라!",
           "Ложись!"
@@ -42299,7 +42299,7 @@
           "¡Fuera de Utopía! ¡No volváis nunca!",
           "Opuśćcie Utopię! I nigdy nie wracajcie!",
           "Saiam de Utopia! Não voltem nunca mais!",
-          "離開烏托邦！永遠不準回來！",
+          "離開烏托邦！永遠不准回來！",
           "ユートピアを去れ！戻ってくるな！",
           "유토피아를 떠나라! 절대 돌아오지 마!",
           "Убирайтесь из Утопии! И не возвращайтесь!"
@@ -42497,7 +42497,7 @@
           "El océano acabó con los exploradores de vanguardia. Ahora mi ejército rematará la faena.",
           "Ocean poskromił zwiadowców. A teraz moja armia dokończy dzieła.",
           "O oceano arruinou os Exploradores da Vanguarda. Agora, meu exército vai terminar o servio.",
-          "大海讓先鋒偵查團潰不成軍。現在，我的軍隊將完成掃尾工作。",
+          "大海讓先遣偵查團潰不成軍。現在，我的軍隊將完成掃尾工作。",
           "海は前線偵察隊を打ち砕いた。今、わが軍隊は任務を終えようとしている。",
           "바다가 전방 정찰병을 망가뜨렸군. 이제는 내 군대가 마무리할 차례다.",
           "Океан расправился с разведчиками. Моя армия закончит начатое."
@@ -43157,7 +43157,7 @@
           "A los débiles se les acaba abatiendo. Los fuertes aguantan. Vuestros exploradores de vanguardia eran iguales.",
           "Widzicie, słabi zostają sami. Silni przeżywają. Wy, zwiadowcy, byliście tacy sami.",
           "Vejam, os fracos são eliminados enquanto os fortes sobrevivem. Não foi diferente com vocês, Exploradores da Vanguarda.",
-          "看，弱者被挑出來消滅，而強者依然存在。你們先鋒偵查團也是如此。",
+          "看，弱者被挑出來消滅，而強者依然存在。你們先遣偵查團也是如此。",
           "分かっているだろう。弱者が選り分けられ、強者が生き殘る。君の前線偵察隊も同じだ。",
           "약한 놈들은 이미 끝났다. 강한 놈들만 남았지. 전방 정찰병 네놈들도 똑같았어.",
           "Слабые отсеиваются. Сильные остаются. Вы, разведчики, были такими же."
@@ -44246,7 +44246,7 @@
           "Los exploradores de vanguardia se recuperarán. Lo sé.\n",
           "Zwiadowcy się odbudują. Wiem to.",
           "Os Exploradores da Vanguarda vão se reerguer, eu sei que vão!\n",
-          "先鋒偵查團會恢復的。我確信。\n",
+          "先遣偵查團會恢復的。我確信。\n",
           "前線偵察隊はじきに元通りになる。分かってるよ。\n",
           "전방 정찰병은 회복할 겁니다. 전 알아요.\n",
           "Разведчики вернутся в строй. Я это знаю.\n"
@@ -44832,7 +44832,7 @@
         "Term": "Story/Utopia/Voiceline/HanneDialogue12_2",
         "TermType": 0,
         "Languages": [
-          "She went off soon after looking for someone called 『Cuckoo’. We wish her the best.",
+          "She went off soon after looking for someone called ‘Cuckoo’. We wish her the best.",
           "Hon stack kort efter det för att hitta 」Göken」. Hoppas det går bra.",
           "Elle est partie peu de temps après, à la recherche d'un certain Cuckoo. Nous lui souhaitons le meilleur.",
           "È andata via subito, in cerca di un tale chiamato 「Cuculo」. Le auguro il meglio.",
@@ -45368,7 +45368,7 @@
           "Sería una parada muy útil para cualquier futuro explorador de vanguardia. Pero sí, los osos serían un problema.",
           "To może być przydatny przystanek dla przyszłych zwiadowców. Ale tak – niedźwiedzie mogą stanowić problem.",
           "Pode ser uma parada útil para qualquer futuro Explorador da Vanguarda. Mas sim, os ursos podem ser um problema.",
-          "對將來的先鋒偵查團來說，它會是非常有用的停留點。不過，沒錯，熊可能是一個問題。",
+          "對將來的先遣偵查團來說，它會是非常有用的停留點。不過，沒錯，熊可能是一個問題。",
           "今後、前線偵察隊の立ち寄り先として島は便利そうなのよ。分かってるわ。クマが問題ね。",
           "미래의 전방 정찰병을 위한 휴게소로 적합할 거예요. 근데 곰들이 문제죠.",
           "Будущим разведчикам нужен будет перевалочный пункт. Но да, медведи – это проблема."
@@ -46061,7 +46061,7 @@
           "Cuando los adultos se hayan decidido, voy a intentar construir uno de esos reactores. ",
           "Kiedy dorośli podejmą już decyzję, sam spróbuję zbudować jeden z tych reaktorów! ",
           "Assim que os adultos se decidirem, vou tentar construir o meu próprio reator! ",
-          "只要大人們決定了，我就會嘗試自己建造一個反應堆！ ",
+          "只要大人們決定了，我就會嘗試自己建造一個反應爐！ ",
           "大人たちが良いって言ったら、自分でリアクターを作ってみたいと思ってるんだ！ ",
           "어른들의 결정이 끝나면, 전 원자로를 직접 만들어 볼 거예요! ",
           "Когда взрослые все решат, я сам попробую построить этот их реактор! "
@@ -46977,7 +46977,7 @@
         "Term": "Story/Utopia/Voiceline/BrunoDialogue10",
         "TermType": 0,
         "Languages": [
-          "I heard Hanne is organizing new 『scouts’ for something. Maybe I’ll go? I could look for Astrid.",
+          "I heard Hanne is organizing new ‘scouts’ for something. Maybe I’ll go? I could look for Astrid.",
           "Jag hörde att Hanne rekryterar nya spanare till något. Jag kanske följer med. Då kan jag leta efter Astrid.",
           "Je crois que Hanne a besoin de nouveaux « éclaireurs ». Je devrais peut-être rejoindre l'équipe ? Pour chercher Astrid...",
           "Ho sentito dire che Hanne sta preparando nuove esplorazioni. Forse potrei unirmi e mettermi sulle tracce di Astrid.",
@@ -48536,7 +48536,7 @@
           "Sí, todos sabemos lo del fracaso de los exploradores de vanguardia.",
           "Tak, wszyscy słyszeliśmy o niepowodzeniu zwiadowców.",
           "Sim, todo mundo já ouviu do fracasso dos Exploradores da Vanguarda.",
-          "是的，我們都知道先鋒偵查團的失敗。",
+          "是的，我們都知道先遣偵查團的失敗。",
           "そうさ、前線偵察隊の失敗は、誰もが耳にしたことがある。",
           "하하, 전방 정찰병의 패망에 대해선 나도 들었어.",
           "Да, все слышали о провале разведчиков."
@@ -48701,7 +48701,7 @@
           "Gracias, explorador de vanguardia.",
           "Dziękuję, zwiadowco.",
           "Obrigada, Explorador da Vanguarda.",
-          "謝謝你，先鋒偵查員。",
+          "謝謝你，先遣偵查員。",
           "ありがとう前線偵察隊。",
           "고마워요, 전방 전찰병.",
           "Спасибо, разведчик."
@@ -49823,7 +49823,7 @@
           "Era casi un explorador de vanguardia, ¿sabes?",
           "Wiesz, ja sam prawie zostałem zwiadowcą.",
           "Eu mesmo quase me tornei um Explorador da Vanguarda, você sabe.",
-          "知道么，我自己也差點成為先鋒偵查員。",
+          "知道嗎，我自己也差點成為先遣偵查員。",
           "知っての通り、僕は前線偵察隊になれたようなもんだったんだけど…",
           "저도 전방 전찰병에 들어갈 뻔했었어요.",
           "А знаешь, я сам чуть не стал разведчиком."
@@ -50541,7 +50541,7 @@
         "Term": "Story/Utopia/Voiceline/MaxDialogue4",
         "TermType": 0,
         "Languages": [
-          "I don’t think I can say 『I told you so’ enough.",
+          "I don’t think I can say ‘I told you so’ enough.",
           "」Vad var det jag sa?」 räcker liksom inte.",
           "Je vais m'enrouer à force de répéter « je vous l'avais bien dit ».",
           "Non credo che mi stuferò mai di dire: 「Ve l’avevo detto」.",
@@ -50813,7 +50813,7 @@
           "Estaría bien tener un reactor decente, como en Tangaroa.",
           "Byłoby miło, gdybyśmy mieli porządny reaktor, jak na Tangaroi.",
           "Seria ótimo se tivéssemos um reator adequado, como em Tangaroa.",
-          "如果我們有一個像在唐加羅瓦那樣完好的反應堆就好了。",
+          "如果我們有一個像在唐加羅瓦那樣完好的反應爐就好了。",
           "タンガロアのようにしっかりしたリアクターがあればいいんですけどね。",
           "우리한테 탄가로아처럼 진짜 원자로가 있었다면 좋을 텐데.",
           "Было бы неплохо заиметь настоящий реактор, как на Тангароа."
@@ -51729,7 +51729,7 @@
         "Term": "Story/Tangaroa/Voiceline/Ruben4_7",
         "TermType": 0,
         "Languages": [
-          "Captain Tulley and the 『investors’ are still up in the tower. I say leave them there to rot.",
+          "Captain Tulley and the ‘investors’ are still up in the tower. I say leave them there to rot.",
           "Kapten Tulley och 」investerarna」 är kvar uppe i tornet. De kan stanna där och ruttna.",
           "Le capitaine Tulley et les « investisseurs » sont toujours dans leur satanée tour. Qu'ils y pourrissent.",
           "Il Capitano Tulley e gli 「investitori」 sono ancora nella torre. Io dico di lasciarli lì a marcire.",
@@ -51762,7 +51762,7 @@
         "Term": "Story/Tangaroa/Voiceline/Ruben4_8",
         "TermType": 0,
         "Languages": [
-          "Captain Tulley and the 『investors’ are still up in the tower. I say leave them there to rot.",
+          "Captain Tulley and the ‘investors’ are still up in the tower. I say leave them there to rot.",
           "",
           "",
           "",
@@ -52034,7 +52034,7 @@
           "¿El reactor funciona? Gorrión, lo has conseguido. Guau, ¡buen trabajo!",
           "Reaktor działa? Wróbel, naprawdę ci się udało. Wow. Dobra robota.",
           "O reator está funcionando? Pardal, você realmente conseguiu. Uau. Bom trabalho.",
-          "反應堆能用了？麻雀，你真的做到了。哇哦，幹得漂亮。",
+          "反應爐能用了？麻雀，你真的做到了。哇哦，幹得漂亮。",
           "リアクターは稼働してる？スパロー、うまくやったんだな。おぉ。グッジョブ。",
           "원자로가 작동한다고요? 해냈구나, 참새. 와. 잘했어.",
           "Реактор работает? Синица, у тебя получилось! Ого. Молодец."
@@ -52397,7 +52397,7 @@
           "Refinador de biocombustible avanzado@Mezcla comida cruda y miel para crear biocombustible.",
           "Zaawansowany rafiner biopaliwa@Pozwala wymieszać surowe jedzenie i miód w celu uzyskania biopaliwa.",
           "Refinador de biocombustível avançado@Mistura comida crua e mel para produzir biocombustível.",
-          "高級生質燃料精煉器@透過混合生食與蜂蜜，造出生質燃料。",
+          "高級生質燃料精煉器@通過混合生食與蜂蜜，造出生質燃料。",
           "改良型バイオ燃料精製裝置@未加工の食べ物とハチミツを混ぜて、バイオ燃料を產生できる。",
           "고급 생물 연료 정제기@날음식과 꿀을 섞어 생물 연료를 만듭니다.",
           "Улучшенный очиститель биотоплива@Создает биотопливо, смешивая сырые продукты и мед."
@@ -53090,7 +53090,7 @@
           "Herramienta de tirolina eléctrica@Te permite bajar o subir tirolinas al equipártela.",
           "Elektryczny przyrząd do jazdy na lince@Pozwala jeździć na lince w dół i w górę.",
           "Ferramenta de tirolesa elétrica@Equipe esta ferramenta para utilizar tirolesas.",
-          "電動滑索工具@裝備它後，你可以透過滑索上下滑行。",
+          "電動滑索工具@裝備它後，你可以通過滑索上下滑行。",
           "電動ジップラインツール@これを裝備すればジップラインの上り下りができる。",
           "전기 집라인 도구@집라인을 타고 오르내릴 수 있습니다.",
           "Электрический блок для зиплайна@Наденьте, чтобы ездить вверх-вниз по зиплайнам."
@@ -53354,7 +53354,7 @@
           "Plano: Ancla fija mejorada@Se puede aprender en la mesa de investigación.",
           "Projekt: Zaawansowana trwale zamontowana kotwica@Można nauczyć się go przy stole badawczym.",
           "Diagrama: âncora estacionária avançada@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級固定錨@可以在研究桌子",
+          "藍圖：高級固定錨@可以進行研究。",
           "ブループリント：改良型固定式アンカー@研究テーブルで習得できる。",
           "청사진: 고급 고정식 앵커@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Улучшенный постоянный якорь@Можно изучить на рабочем столе."
@@ -53387,7 +53387,7 @@
           "Plano: Batería avanzada@Se puede aprender en la mesa de investigación.",
           "Projekt: Zaawansowana bateria@Można nauczyć się go przy stole badawczym.",
           "Diagrama: bateria avançada@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級電池@可以在研究桌中",
+          "藍圖：高級電池@可以進行研究。",
           "ブループリント：改良型バッテリー@研究テーブルで習得できる。",
           "청사진: 고급 배터리@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Улучшенная батарейка@Можно изучить на рабочем столе."
@@ -53420,7 +53420,7 @@
           "Plano: Soldadora eléctrica@Se puede aprender en la mesa de investigación.",
           "Projekt: Elektryczny piec do wytapiania@Można nauczyć się go przy stole badawczym.",
           "Diagrama: fundição elétrica@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級熔爐@可以在研究桌中學習",
+          "藍圖：高級熔爐@可以進行研究。",
           "ブループリント：電気溶鉱爐@研究テーブルで習得できる。",
           "청사진: 전기 제련기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Электрическая плавильня@Можно изучить на рабочем столе."
@@ -53453,7 +53453,7 @@
           "Plano: Refinador de biocombustible avanzado@Se puede aprender en la mesa de investigación.",
           "Projekt: Zaawansowany rafiner biopaliwa@Można nauczyć się go przy stole badawczym.",
           "Diagrama: refinador de biocombustível avançado@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級生質燃料提煉機@可以在研究桌中學習。",
+          "藍圖：高級生質燃料提煉機@可以進行研究。",
           "ブループリント：改良型バイオ燃料精製裝置@研究テーブルで習得できる。",
           "청사진: 고급 생물 연료 정제기@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Улучшенный очиститель биотоплива@Можно изучить на рабочем столе"
@@ -53486,7 +53486,7 @@
           "Plano: Herramienta de tirolina eléctrica@Se puede aprender en la mesa de investigación.",
           "Projekt: Elektryczny przyrząd do jazdy na lince@Można nauczyć się go przy stole badawczym.",
           "Diagrama: ferramenta de tirolesa elétrica@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：高級滑索工具@可以在研究桌中學習。",
+          "藍圖：高級滑索工具@可以進行研究。",
           "ブループリント：電動ジップラインツール@研究テーブルで習得できる。",
           "청사진: 전기 집라인 도구@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Электрический блок для зиплайна@Можно изучить на рабочем столе."
@@ -53519,7 +53519,7 @@
           "Plano: Mochila grande@Se puede aprender en la mesa de investigación.",
           "Projekt: Duży plecak@Można nauczyć się go przy stole badawczym.",
           "Diagrama: mochila grande@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：大背包@可以在研究桌中學習。",
+          "藍圖：大背包@可以進行研究。",
           "ブループリント：大きなバックパック@研究テーブルで習得できる。",
           "청사진: 큰 배낭@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Большой рюкзак@Можно изучить на рабочем столе."
@@ -53783,7 +53783,7 @@
           "Plano: Herramientas de titanio@Se puede aprender en la mesa de investigación.",
           "Projekt: Tytanowe narzędzia@Można nauczyć się go przy stole badawczym.",
           "Diagrama: ferramentas de titânio@Pode ser aprendido na mesa de pesquisa.",
-          "藍圖：鈦工具@可以在研究桌中學習。",
+          "藍圖：鈦工具@可以進行研究。",
           "ブループリント：チタンの道具@研究テーブルで習得できる。",
           "청사진: 티타늄 도구@연구용 탁자에서 연구 가능합니다.",
           "Чертеж: Титановые инструменты@Можно изучить на рабочем столе."
@@ -54674,7 +54674,7 @@
           "Contador de cimientos@Se encarga de llevar la cuenta de tus cimientos, para que tú no tengas que hacerlo.",
           "Licznik podpór@Liczy twoje podpory, więc ty nie musisz.",
           "Contador de alicerces@Computa seus alicerces, para que você não precise fazê-lo.",
-          "基座計數器@幫你追蹤基座，所以你不用自己來。",
+          "基座計數器@幫你記錄基座的情況。",
           "土臺カウンター@あなたの変わりに土臺の數を記録しておいてくれる。",
           "토대 카운터@토대를 파악하기 때문에 직접 세지 않아도 됩니다.",
           "Счетчик фундаментов@Ведет счет вашим фундаментам за вас."
@@ -55532,7 +55532,7 @@
           "Las energías solar y eólica están muy bien. Pero los superreactores de fisión extrema están mucho mejor.",
           "Energia słoneczna i wiatrowa jest fajna. Superekstremalne reaktory jądrowe? Fajniejsze.",
           "Energia solar e energia eólica são legais. Mas os reatores de fissão extrema? Eles são demais.",
-          "太陽能和風能很酷。超極限裂變反應堆？那就更酷了。",
+          "太陽能和風能很酷。超極限裂變反應爐？那就更酷了。",
           "太陽光発電と風力発電はイかすよね。超極限核分裂リアクターは？もっとイかすね。",
           "태양열과 풍력은 정말 매력적이에요. 초극단 핵분열 원자로? 훨씬 더 매력적이죠.",
           "Энергия солнца и ветра – это хорошо. Но как насчет энергии ядерного распада?"
@@ -57644,7 +57644,7 @@
           "Sin conexión a Steam.\nActualiza o reinicia Raft e inténtalo de nuevo.",
           "Brak połączenia ze Steam.\nOdśwież lub uruchom ponownie Raft i spróbuj jeszcze raz.",
           "Sem conexão com o Steam.\nAtualize ou reinicie Raft e tente novamente.",
-          "無法連接至Steam。\n請重新整理或重啟《Raft》並重試。",
+          "無法連線至Steam。\n請重新整理或重啟《Raft》並重試。",
           "steamとの接続ができませんでした。\n更新するかRaftを再起動してから再度お試しください。",
           "Steam에 연결되지 않았습니다.\n새로고침 하거나 Raft를 다시 시작해 보세요.",
           "Нет подключения к Steam.\nОбновите или перезапустите Raft и попробуйте снова."
@@ -57677,7 +57677,7 @@
           "Te has desconectado de Steam.\nReinicia Raft e inténtalo de nuevo.",
           "Odłączono od Steam.\nUruchom ponownie Raft i spróbuj jeszcze raz.",
           "Desconectado do Steam.\nAtualize ou reinicie Raft e tente novamente.",
-          "與Steam斷開連接。\n請重啟《Raft》並重試。",
+          "與Steam斷開連線。\n請重啟《Raft》並重試。",
           "steamから切斷されました。\nRaftを再起動してから再度お試しください",
           "Steam과의 연결이 해제되었습니다.\nRaft를 다시 시작해 보세요.",
           "Нет подключения к Steam.\nПерезапустите Raft и попробуйте снова."
@@ -57776,7 +57776,7 @@
           "Intentando conectarse al anfitrión...",
           "Próba połączenia z hostem…",
           "Tentando conectar com o anfitrião…",
-          "正在連接主機……",
+          "正在連線主機……",
           "ホストへ接続しています…",
           "호스트 연결 시도 중...",
           "Попытка соединения с хостом…"
@@ -58687,7 +58687,7 @@
           0
         ],
         "Languages_Touch": []
-              },
+      },
       {
         "Term": "Controls/SortStorage",
         "TermType": 0,
